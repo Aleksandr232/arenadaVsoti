@@ -16,6 +16,11 @@ class PageController extends Controller
         return view('site.pages.scaffolding');
     }
 
+    public function technics()
+    {
+        return view('site.pages.technics');
+    }
+
     public function snow_removal()
     {
         return view('site.pages.snow_removal');

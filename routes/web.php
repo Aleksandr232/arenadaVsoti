@@ -21,6 +21,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/вышки-туры', [PageController::class, 'towers_tour'])->name('towers_tour');
+Route::get('/техника', [PageController::class, 'technics'])->name('technics');
 Route::get('/строительные-леса', [PageController::class, 'scaffolding'])->name('scaffolding');
 Route::get('/уборка-снега-с-крыш', [PageController::class, 'snow_removal'])->name('snow_removal');
 Route::get('/галерея-строительных-лесов-и-вышек-тур', [PageController::class, 'gallery'])->name('gallery');
