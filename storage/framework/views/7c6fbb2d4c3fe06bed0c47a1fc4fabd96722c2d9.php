@@ -102,6 +102,7 @@
             <div class="ptt-call-to-action">
                 <h2>Арендуйте вышку-тура без переплат</h2>
                 <button class="ptt-card__btn ptt-card__btn__one btn" data-btn="Заявка на аренду вышек-туров">Арендовать</button>
+                <a target="_blank" href="https://calcarenda.vercel.app/"><button id='bot' class="btn_calc" >Рассчитать</button></a>
             </div>
         </div>
     </section>
@@ -113,14 +114,14 @@
         <div class="tt-recommendations my-container">
             <div class="op-main">
                 <div class="op-main__card">
-                    <a href="<?php echo e(route('gallery')); ?>">
+                    <a href="<?php echo e(route('gallery_tower')); ?>">
                         <picture>
                             <source type="image/webp" srcset="<?php echo e(asset('frontend/img/tour-towers/recommendations-1.webp')); ?>">
                             <img src="<?php echo e(asset('frontend/img/tour-towers/recommendations-1.jpg')); ?>" width="670" height="350" alt="">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея наших вышек-тур</h2>
-                    <a href="<?php echo e(route('gallery')); ?>" class="op-card__link">Подробнее →</a>
+                    <a href="<?php echo e(route('gallery_tower')); ?>" class="op-card__link">Подробнее →</a>
                 </div>
                 <div class="op-main__card">
                     <a href="<?php echo e(route('scaffolding')); ?>">

@@ -50,6 +50,9 @@
                             <a href="https://www.facebook.com/arenda.visoti" title="Мы в Facebook" target="_blank">
                                 <img src="<?php echo e(asset('frontend/img/icons/facebook.svg')); ?>" width="24" height="24" alt="">
                             </a>
+                            <a href="https://t.me/HireHeightsbot" title="Напиши боту" target="_blank">
+                                <img src="<?php echo e(asset('frontend/img/icons/telegram.svg')); ?>" width="24" height="24" alt="">
+                            </a>
                         </div>
                     </div>
                     <div class="cc-content__legal__address">

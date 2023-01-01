@@ -64,7 +64,8 @@
     loadStyle("<?php echo e(asset('frontend/css/style.css')); ?>");
     loadStyle('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&family=Oswald:wght@400;500;700&display=swap');
 </script>
-
+<script src="../../../../public/frontend/js/snowfall.js"></script>
+<script src='../../../../public/frontend/js/snow.js'></script>
 </body>
 </html>
 <?php /**PATH /var/www/user76834/data/www/xn--80aagge2ckkol0hd.xn--p1ai/resources/views/site/layouts/main.blade.php ENDPATH**/ ?>

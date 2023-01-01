@@ -28,7 +28,7 @@
                             <img src="<?php echo e(asset('frontend/img/icons/whatsapp.svg')); ?>" width="20" height="20" alt="">
                         </a>
                     </div>
-                    <button class="cta-form__btn btn" data-btn="Заявка на обратный звонок">Заказать звонок</button>
+                    <button  class="cta-form__btn btn" data-btn="Заявка на обратный звонок">Заказать звонок</button>
                 </div>
             </div>
             <div class="cta-advantage">

@@ -12,6 +12,19 @@
 <?php $__env->startSection('content'); ?>
     <section id="gallery">
         <div class="gallery">
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="<?php echo e(asset('frontend/img/gallery/inopolis.jpg')); ?>" class="gallery-show" title="Иннополис">
+                        <picture>
+                            <source type="image/webp" srcset="<?php echo e(asset('frontend/img/gallery/inopolis.webp')); ?>">
+                            <img src="<?php echo e(asset('frontend/img/gallery/inopolis.jpg')); ?>" width="320" height="350" alt="">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~800 кв.м</h3>
+                <p><span>Назначение:</span>Монтаж утепленного вент фасада</p>
+                <p><span>Объект:</span>Иннополис</p>
+            </div>
             <div class="gallery-card">
                 <div class="gallery-card__image">
                     <a href="<?php echo e(asset('frontend/img/gallery/baumana.jpg')); ?>" class="gallery-show" title="ул. Баумана">

@@ -50,6 +50,7 @@
             <div class="sp-call-to-action">
                 <h2>Арендуйте строительные леса без переплат</h2>
                 <button class="ptt-card__btn ptt-card__btn__one sp-cta__btn btn" data-btn="Заявка на аренду строительных лесов">Арендовать</button>
+                <a target="_blank" href="https://calcarenda.vercel.app/"><button class="btn_calc" >Рассчитать</button></a>
             </div>
         </div>
     </section>
@@ -61,14 +62,14 @@
         <div class="scaffolding__recommendations my-container">
             <div class="op-main">
                 <div class="op-main__card">
-                    <a href="<?php echo e(route('gallery')); ?>">
+                    <a href="<?php echo e(route('gallery_scaffolding')); ?>">
                         <picture>
                             <source type="image/webp" srcset="<?php echo e(asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-2.webp')); ?>">
                             <img src="<?php echo e(asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-2.jpg')); ?>" width="670" height="350" alt="">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея наших лесов</h2>
-                    <a href="<?php echo e(route('gallery')); ?>" class="op-card__link">Подробнее →</a>
+                    <a href="<?php echo e(route('gallery_scaffolding')); ?>" class="op-card__link">Подробнее →</a>
                 </div>
                 <div class="op-main__card">
                     <a href="<?php echo e(route('towers_tour')); ?>">
