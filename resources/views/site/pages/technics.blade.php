@@ -116,14 +116,14 @@
         <div class="tt-recommendations my-container">
             <div class="op-main">
                 <div class="op-main__card">
-                    <a href="{{ route('gallery_tower') }}">
+                    <a href="{{ route('gallery_technics') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/recommendations-1.webp') }}">
                             <img src="{{ asset('frontend/img/tour-towers/recommendations-1.jpg') }}" width="670" height="350" alt="">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея наших вышек-тур</h2>
-                    <a href="{{ route('gallery_tower') }}" class="op-card__link">Подробнее →</a>
+                    <a href="{{ route('gallery_technics') }}" class="op-card__link">Подробнее →</a>
                 </div>
                 <div class="op-main__card">
                     <a href="{{ route('scaffolding') }}">
