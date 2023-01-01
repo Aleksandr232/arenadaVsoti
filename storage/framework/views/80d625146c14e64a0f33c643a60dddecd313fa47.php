@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php /**PATH D:\OpenServer\domains\height-rent.loc\resources\views/errors/500.blade.php ENDPATH**/ ?>
