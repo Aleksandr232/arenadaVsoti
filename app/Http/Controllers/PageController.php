@@ -41,6 +41,11 @@ class PageController extends Controller
         return view('site.pages.gallery_scaffolding');
     }
 
+    public function gallery_technics()
+    {
+        return view('site.pages.gallery_technics');
+    }
+
     public function contacts()
     {
         return view('site.pages.contacts');
