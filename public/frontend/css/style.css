@@ -21,6 +21,7 @@
   margin-left: 60px;
   margin-right: 28px;
 }
+
 .btn_calc{
     margin-top: 36px;
     width: 200px;
@@ -171,6 +172,7 @@
   color: #3D5368;
 }
 @media screen and (max-width: 1240px) {
+
   .call-to__action {
     width: 100%;
     margin: 0 auto;
@@ -266,6 +268,7 @@
   }
 }
 @media screen and (max-width: 920px) {
+
   .cta-form {
     margin: 0;
     margin-top: 24px;
@@ -353,6 +356,7 @@
      object-position: center;
 }
 @media screen and (max-width: 760px) {
+
   .ptt-image {
     width: 100%;
   }
@@ -502,6 +506,7 @@
   background-color: #B5C8CF;
 }
 @media screen and (max-width: 1200px) {
+
   .sr-price {
     width: 700px;
   }
@@ -621,6 +626,7 @@
   background: #5AA517;
 }
 @media screen and (max-width: 900px) {
+
   .srcTA-container {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
@@ -639,11 +645,13 @@
   }
 }
 @media screen and (max-width: 540px) {
+
   .srcTA-title {
     width: 96%;
   }
 }
 @media screen and (max-width: 380px) {
+
   .srcTA-container ul {
     width: 96%;
   }
