@@ -14,6 +14,7 @@
 @section('content')
     <div id="snow-removal">
         <div class="sr-banner my-container">
+            <a href="http://on-high.ru/"><img class='onhige' src="../../../../public/frontend/img/snow-removal/onhige.jpg" alt=""></a>
             <div class="srb-content">
                 <h2>Уберем снег с крыш в Казани и пригороде</h2>
                 <p>Бесплатный выезд оценщика</p>
