@@ -96,11 +96,10 @@
                             <h3>Доставка и увоз <span>3000-4000</span>&#8381; по городу в зависимости от места</h3>
                         </div>
                         <h2>Уборка снега минитрактором</h2>
-                        <p><span>1400</span>&#8381; / в час нал</p>
-                        <!-- <p><span>1500</span>&#8381; / в час безнал без НДС</p>
-                        <p><span>1600</span>&#8381; / в час безнал  с НДС</p>
-                        <p> Доставка и увоз <span>3000-4000</span>&#8381; по городу в зависимости от места</p>
-                        <p>Принимаем все формы оплаты</p> -->
+                        <p style=font-size:14px><span>1400</span>&#8381; / в час нал</p>
+                        <p style=font-size:14px><span>1500</span>&#8381; / в час безнал без НДС</p>
+                        <p style=font-size:14px><span>1600</span>&#8381; / в час безнал  с НДС</p>
+                        <p style="font-size:14px; background: -webkit-gradient(linear, left top, right top, from(rgba(255, 221, 85, 0.8)), to(rgba(255, 221, 85, 0.9)))">Принимаем все формы оплаты</p>
                         <button class="srp-card__btn srp-card__btn__color__four btn" data-btn="Заявка на уборку и вывоз снега техникой">Заказать</button>
                     </div>
                 </div>

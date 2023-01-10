@@ -161,6 +161,19 @@
   width: 100%;
   background-color: #F8FAFC;
 }
+
+#about-comments{
+    display: none;
+}
+
+#about-comments h3{
+    text-align: center;
+    font-size: 36px;
+  font-weight: 700;
+  color: #9FB3BC;
+  margin-bottom: 32px;
+}
+
 .au-content h3 {
   font-size: 36px;
   font-weight: 700;
@@ -357,6 +370,10 @@
 }
 @media screen and (max-width: 760px) {
 
+    #about-comments{
+        display: block;
+    }
+
   .ptt-image {
     width: 100%;
   }
@@ -456,7 +473,7 @@
 }
 .srp-insert__info {
   position: absolute;
-  bottom: 180px;
+  bottom: 257px;
   right: 0;
   width: 170px;
   height: 46px;
@@ -475,7 +492,7 @@
 
 .srp-insert__info1 {
     position: absolute;
-    bottom: 448px;
+    bottom: 522px;
     right: 0;
     width: 342px;
     height: 50px;

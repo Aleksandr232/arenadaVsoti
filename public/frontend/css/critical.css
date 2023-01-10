@@ -738,6 +738,7 @@ main {
   }
   .hn-navbar__menu {
     position: absolute;
+    z-index: 1;
     top: 100px;
     left: -100%;
     padding: 64px 0;

@@ -81,4 +81,8 @@
             </div>
         </div>
     </section>
+    <section id="about-comments">
+        <h3>Отзывы</h3>
+        <div style="width:100%;height:800px;position:relative;"><iframe style="width:100%;height:100%;box-sizing:border-box" src="https://yandex.ru/maps-reviews-widget/186521182233?comments"></iframe></div>
+    </section>
 @endsection
