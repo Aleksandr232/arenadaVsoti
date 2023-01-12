@@ -228,6 +228,70 @@
     left: 128px;
     position: relative;
 }
+
+.rub{
+    position: relative;
+    left: 66px;
+    bottom: 11px;
+    width: 85px;
+}
+
+.rub1{
+    position: relative;
+    left: 62px;
+    bottom: 11px;
+    width: 67px;
+}
+
+.rub2{
+    position: relative;
+    left: 62px;
+    bottom: 11px;
+    width: 67px;
+}
+
+.rub3{
+    position: relative;
+    left: 62px;
+    bottom: 11px;
+    width: 85px;
+}
+
+.rub4{
+    position: relative;
+    left: 202px;
+    bottom: 11px;
+    width: 67px;
+}
+
+.rub5{
+    position: relative;
+    left: 63px;
+    bottom: 11px;
+    width: 67px;
+}
+
+.rub6{
+    position: relative;
+    left: 69px;
+    bottom: 11px;
+    width: 73px;
+}
+
+.rub7{
+    position: relative;
+    left: 69px;
+    bottom: 11px;
+    width: 73px;
+}
+
+.rub8{
+    position: relative;
+    left: 69px;
+    bottom: 11px;
+    width: 73px;
+}
+
 .au-content {
   margin-left: -40px;
   padding: 40px 32px 40px 80px;
