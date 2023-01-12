@@ -16,7 +16,7 @@
         <div class="gallery">
             <div class="gallery-card">
                 <div class="gallery-card__image">
-                    <a href="{{ asset('frontend/img/technics/texnica1.jpg') }}" class="gallery-show" title="a">
+                    <a href="{{ asset('frontend/img/technics/texnica1.jpg') }}" class="gallery-show" title="Пятитонник ISUZU фургон длинной 6,20м">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica1.webp') }}">
                             <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="320" height="350" alt="">
@@ -29,7 +29,7 @@
             </div>
             <div class="gallery-card">
                 <div class="gallery-card__image">
-                    <a href="{{ asset('frontend/img/technics/texnica2.jpg') }}" class="gallery-show" title="a">
+                    <a href="{{ asset('frontend/img/technics/texnica2.jpg') }}" class="gallery-show" title="Газель фургон длинной 4,30м">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica2.webp') }}">
                             <img src="{{ asset('frontend/img/technics/texnica2.jpg') }}" width="320" height="350" alt="">
@@ -42,10 +42,23 @@
             </div>
             <div class="gallery-card">
                 <div class="gallery-card__image">
-                    <a href="{{ asset('frontend/img/technics/texnica3.jpg') }}" class="gallery-show" title="a">
+                    <a href="{{ asset('frontend/img/technics/texnica3.jpg') }}" class="gallery-show" title="Погрузчик, минитрактор">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica3.webp') }}">
                             <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="320" height="350" alt="">
+                        </picture>
+                    </a>
+                </div>
+                <!-- <h3><span>Высота Балатон 1*2м:</span> 6 м</h3>
+                <p><span>Назначение:</span> покраска деревянного фасада</p>
+                <p><span>Объект:</span> п. Куземетьевское</p> -->
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/technics/gaz3.jpg') }}" class="gallery-show" title="Газель, фургон длинной 5м">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/technics/gaz3.webp') }}">
+                            <img src="{{ asset('frontend/img/technics/gaz3.jpg') }}" width="320" height="350" alt="">
                         </picture>
                     </a>
                 </div>

@@ -10,6 +10,7 @@ hnNavbarBurgerBtn.addEventListener('click',  () => {
     hnNavbarMenu.classList.toggle('active');
     hnNavbarBurger.classList.toggle('active');
     hnNavbarBurgerTitle.classList.toggle('active');
+    console.log('Melnkov dev', 'https://newportfolio-sooty-kappa.vercel.app/')
 
 });
 
@@ -78,7 +79,7 @@ inp.forEach((e) => {
     });
 })
 
-
+console.log('Melnkov dev', 'https://newportfolio-sooty-kappa.vercel.app/')
 
 
 
