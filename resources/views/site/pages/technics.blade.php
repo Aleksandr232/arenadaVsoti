@@ -129,9 +129,6 @@
                     <li>Минимальная оплата за 3 часа</li>
                     <li>Стоимость по межгороду, в зависимости от километража и груза по договорённости</li>
                 </ol>
-                <div class="tt-cc__link">
-                    <a href="{{ asset('frontend/doc/balaton-2x2.pdf') }}" target="_blank">Технический паспорт →</a>
-                </div>
             </div>
         </div>
     </section>
