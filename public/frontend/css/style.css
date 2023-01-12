@@ -155,6 +155,79 @@
   z-index: 1;
   position: relative;
 }
+
+.divider{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 164px;
+    position: relative;
+}
+.divider1{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 181px;
+    position: relative;
+}
+.divider2{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 255px;
+    position: relative;
+}
+.divider3{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 190px;
+    position: relative;
+}
+.divider4{
+    width:200px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 87px;
+    position: relative;
+}
+.divider5{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 314px;
+    position: relative;
+}
+.divider6{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 156px;
+    position: relative;
+}
+.divider7{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 149px;
+    position: relative;
+}
+.divider8{
+    width:60px;
+    height:2px;
+     background: rgb(51 51 51 / 10%);
+     bottom: 6px;
+    left: 128px;
+    position: relative;
+}
 .au-content {
   margin-left: -40px;
   padding: 40px 32px 40px 80px;

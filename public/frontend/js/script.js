@@ -41,6 +41,8 @@ closeModal.forEach(elem => {
     });
 });
 
+
+
 function calcScroll() {
     const div = document.createElement('div');
 

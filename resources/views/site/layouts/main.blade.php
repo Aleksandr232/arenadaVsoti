@@ -37,6 +37,14 @@
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/86909024" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!— /Yandex.Metrika counter —>
+    <style>
+        html, body, #map {
+            width: 100%;
+            height: 50%;
+            padding: 0;
+            margin: 0;
+        }
+    </style>
 </head>
 <body>
 <header>
@@ -53,6 +61,8 @@
 
 @include('site.inc.modal_window')
 
+
+
 <script>
     function loadStyle(url) {
         let link = document.createElement('link');
@@ -64,7 +74,10 @@
     loadStyle("{{ asset('frontend/css/style.css') }}");
     loadStyle('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&family=Oswald:wght@400;500;700&display=swap');
 </script>
+<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=159d1b30-bef0-463b-a7f6-b69cba7ec8e9" type="text/javascript"></script>
 <script src="../../../../public/frontend/js/snowfall.js"></script>
 <script src='../../../../public/frontend/js/snow.js'></script>
+<script src='../../../../public/frontend/js/map.js'></script>
+
 </body>
 </html>
