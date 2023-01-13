@@ -303,13 +303,17 @@
     display: none;
 }
 
-#about-comments h3{
+#about-comments h3 {
+    position: relative;
     text-align: center;
     font-size: 36px;
-  font-weight: 700;
-  color: #9FB3BC;
-  margin-bottom: 32px;
+    font-weight: 700;
+    color: #9FB3BC;
+    margin-bottom: 36px;
+    top: 24px;
 }
+
+
 
 .au-content h3 {
   font-size: 36px;
