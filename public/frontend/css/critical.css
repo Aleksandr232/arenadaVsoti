@@ -982,6 +982,7 @@ main {
   }
 }
 @media screen and (max-width: 900px) {
+    
   .towers-tour__card {
     -webkit-box-pack: center;
         -ms-flex-pack: center;

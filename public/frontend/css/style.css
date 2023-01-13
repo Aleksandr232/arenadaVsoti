@@ -450,12 +450,95 @@
   }
 }
 @media screen and (max-width: 560px) {
+    .divider4 {
+        width: 200px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 69px;
+        position: relative;
+    }
+    .divider3 {
+        width: 60px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 168px;
+        position: relative;
+    }
+    .divider2 {
+        width: 60px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 230px;
+        position: relative;
+    }
+    .divider {
+        width: 60px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 146px;
+        position: relative;
+    }
+    .divider1 {
+        width: 60px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 164px;
+        position: relative;
+    }
+    .divider5 {
+        width: 19px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 275px;
+        position: relative;
+    }
+    .rub5 {
+        position: relative;
+        left: 20px;
+        bottom: 11px;
+        width: 67px;
+    }
+
+    .divider7 {
+        width: 60px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 131px;
+        position: relative;
+    }
+
+    .divider8 {
+        width: 60px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 112px;
+        position: relative;
+    }
+
+    .divider6 {
+        width: 60px;
+        height: 2px;
+        background: rgb(51 51 51 / 10%);
+        bottom: 6px;
+        left: 137px;
+        position: relative;
+    }
+
   .cta-advantage__card {
     margin-right: 0;
     margin-left: 0;
   }
 }
 @media screen and (max-width: 500px) {
+
   .au-content {
     width: 76%;
   }
@@ -627,6 +710,8 @@
           align-items: center;
 }
 
+
+
 .srp-insert__info1 {
     position: absolute;
     bottom: 522px;
@@ -689,6 +774,7 @@
   }
 }
 @media screen and (max-width: 720px) {
+
   .sr-price {
     -webkit-box-pack: center;
         -ms-flex-pack: center;

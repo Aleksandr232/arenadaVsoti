@@ -36,7 +36,7 @@
                     </ol>
 
                     <div style="position:relative; top: 19px" id='map'></div>
-</div>
+            </div>
         </div>
         <div class="tt-card__with__bg">
             <div class="towers-tour__card my-container">
