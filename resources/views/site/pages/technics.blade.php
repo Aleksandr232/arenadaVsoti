@@ -1,4 +1,4 @@
-@extends('site.layouts.main')
+@extends('site.layouts.main_technics')
 
 
 @section('title', 'Вышки-туры строительные в аренду в Казани «Аренда высоты»')
@@ -35,7 +35,8 @@
                         <li>Срочная подача<div class="divider8" ><div class="rub8">от 500 ₽</div></div></li>
                     </ol>
 
-                    <div style="position:relative; top: 19px" id='map'></div>
+
+                    <div style="position:relative; top:15px" id='map'></div>
             </div>
         </div>
         <div class="tt-card__with__bg">
@@ -132,23 +133,14 @@
             </div>
         </div>
     </section>
-    <!-- <section id="price-towers__tour">
+    <section id="price-towers__tour">
         <div class="price-towers__tour my-container">
-            <h2 class="ptt-title">Стоимость аренды вышек-туров</h2>
-            <p class="ptt-description">Минимальная сумма заказа в размере арендной платы за 7 дней</p>
-            <div class="ptt-image">
-                <picture>
-                    <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/towers-tour-price.webp') }}">
-                    <img src="{{ asset('frontend/img/tour-towers/towers-tour-price.jpg') }}" width="720" height="1280" alt="">
-                </picture>
-            </div>
             <div class="ptt-call-to-action">
-                <h2>Арендуйте вышку-тура без переплат</h2>
-                <button class="ptt-card__btn ptt-card__btn__one btn" data-btn="Заявка на аренду вышек-туров">Арендовать</button>
-                <a target="_blank" href="https://calcarenda.vercel.app/"><button id='bot' class="btn_calc" >Рассчитать</button></a>
+                <h2>Арендуйте технику</h2>
+                <button class="srb-btn btn" data-btn="Заявка на выезд оценщика на уборку снега с крыш">Заказать</button>
             </div>
         </div>
-    </section> -->
+    </section>
     <!-- include our-products start -->
     <section id="towers-tour__recommendations">
         <div class="our-services__title my-container">

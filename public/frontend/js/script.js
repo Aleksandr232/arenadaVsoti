@@ -1,3 +1,5 @@
+
+
  // menu
 const hnNavbarBurgerBtn = document.querySelector('.hn-navbar__burger__btn');
 const hnNavbarMenu = document.querySelector('.hn-navbar__menu');
@@ -6,11 +8,12 @@ const hnNavbarBurgerTitle = document.querySelector('.hn-navbar__burger__title');
 
 
 
-hnNavbarBurgerBtn.addEventListener('click',  () => {
+hnNavbarBurgerBtn.addEventListener('click', () => {
     hnNavbarMenu.classList.toggle('active');
     hnNavbarBurger.classList.toggle('active');
     hnNavbarBurgerTitle.classList.toggle('active');
     console.log('Melnkov dev', 'https://newportfolio-sooty-kappa.vercel.app/')
+
 
 });
 
@@ -80,7 +83,7 @@ inp.forEach((e) => {
 })
 
 console.log('Melnkov dev', 'https://newportfolio-sooty-kappa.vercel.app/')
-
+users()
 
 
 

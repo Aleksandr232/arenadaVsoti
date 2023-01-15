@@ -454,6 +454,9 @@
   }
 }
 @media screen and (max-width: 560px) {
+    #map{
+        display: none;
+    }
     .divider4 {
         width: 200px;
         height: 2px;
