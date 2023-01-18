@@ -46,6 +46,11 @@ class PageController extends Controller
         return view('site.pages.gallery_technics');
     }
 
+    public function gallery_snow_removal()
+    {
+        return view('site.pages.gallery_snow_removal');
+    }
+
     public function contacts()
     {
         return view('site.pages.contacts');

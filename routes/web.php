@@ -28,6 +28,7 @@ Route::get('/галерея-строительных-лесов-и-вышек-т
 Route::get('/галерея-вышек-тур', [PageController::class, 'gallery_tower'])->name('gallery_tower');
 Route::get('/галерея-строительных-лесов', [PageController::class, 'gallery_scaffolding'])->name('gallery_scaffolding');
 Route::get('/галерея-техника', [PageController::class, 'gallery_technics'])->name('gallery_technics');
+Route::get('/галерея-уборка-снега', [PageController::class, 'gallery_snow_removal'])->name('gallery_snow_removal');
 Route::get('/наши-контакты', [PageController::class, 'contacts'])->name('contacts');
 Route::get('/статьи', [PageController::class, 'posts'])->name('posts');
 Route::post('/письмо-отправлено', [MailController::class, 'send'])->name('send');

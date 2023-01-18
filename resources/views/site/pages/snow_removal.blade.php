@@ -150,14 +150,14 @@
         <div class="tt-recommendations my-container">
             <div class="op-main">
                 <div class="op-main__card">
-                    <a href="{{ route('scaffolding') }}">
+                    <a href="{{ route('gallery_snow_removal') }}">
                         <picture>
-                            <source type="image/webp" srcset="{{ asset('frontend/img/main/scaffolding.webp') }}">
-                            <img src="{{ asset('frontend/img/main/scaffolding.jpg') }}" width="670" height="350" alt="">
+                            <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/hige1.webp') }}">
+                            <img src="{{ asset('frontend/img/snow-removal/hige1.jpg') }}" width="670" height="350" alt="">
                         </picture>
                     </a>
-                    <h2 class="op-card__title">Рамные строительные леса</h2>
-                    <a href="{{ route('scaffolding') }}" class="op-card__link">Подробнее →</a>
+                    <h2 class="op-card__title">Галерея уборка снега</h2>
+                    <a href="{{ route('gallery_snow_removal') }}" class="op-card__link">Подробнее →</a>
                 </div>
                 <div class="op-main__card">
                     <a href="{{ route('towers_tour') }}">
