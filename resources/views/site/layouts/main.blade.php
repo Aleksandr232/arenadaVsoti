@@ -78,6 +78,8 @@
 <!-- <script src="../../../../public/frontend/js/snowfall.js"></script>
 <script src='../../../../public/frontend/js/snow.js'></script> -->
 <script src='../../../../public/frontend/js/map.js'></script>
+<script src="https://res.smartwidgets.ru/app.js" defer></script>
+
 
 </body>
 </html>
