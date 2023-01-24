@@ -6,8 +6,8 @@
             РТ, г. Казань, ул. Мирхайдара Файзи 68
         </address>
         <div class="header-phone">
-            <a href="tel:+79600625525">8 960 062-55-25</a>
-            <a href="https://wa.me/+79600625525" title="Напишите нам в Whatsapp" target="_blank">
+            <a href="tel:+79867120059">8 986 712-00-59</a>
+            <a href="https://wa.me/+79867120059" title="Напишите нам в Whatsapp" target="_blank">
                 <img src="{{ asset('frontend/img/icons/whatsapp.svg') }}" width="20" height="20" alt="">
             </a>
         </div>
