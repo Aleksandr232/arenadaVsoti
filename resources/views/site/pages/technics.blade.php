@@ -39,6 +39,25 @@
                     <div style="position:relative; top:15px" id='map'></div>
             </div>
         </div>
+        <div class="towers-tour__card my-container">
+            <div class="tt-card__image">
+                <picture style="position:relative; top: 10px">
+                    <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica1.webp') }}">
+                    <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="450" alt="">
+                </picture>
+            </div>
+            <div class="tt-card__content">
+                <h3>Пятитонник ISUZU фургон длинной 6,20м</h3>
+                <ol style="position:relative; top: 10px">
+                    <li>грузоподъемность до 6 тонн - 1200 ₽/час</li>
+                    <li>Металлический фургон (не изотермический) высотой 2,30м</li>
+                    <li>Погрузка задняя</li>
+                    <li>Безналичный оплата без НДС +10%, с НДС +20%</li>
+                    <li>Минимальная оплата за 3 часа</li>
+                    <li>Стоимость по межгороду, в зависимости от километража и груза по договорённости</li>
+                </ol>
+            </div>
+        </div>
         <div class="tt-card__with__bg">
             <div class="towers-tour__card my-container">
                 <div class="tt-card__content tt-card__revers">
@@ -67,68 +86,19 @@
         <div class="towers-tour__card my-container">
             <div class="tt-card__image">
                 <picture>
-                    <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica3.webp') }}">
-                    <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="670" height="450" alt="">
+                    <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica2.webp') }}">
+                    <img src="{{ asset('frontend/img/technics/texnica2.jpg') }}" width="670" height="450" alt="">
                 </picture>
             </div>
             <div class="tt-card__content">
-                <h3>Погрузчик, минитрактор в аренду</h3>
+                <h3>Газель фургон длинной 4,30м</h3>
                 <ol style="position:relative; top: 10px">
-                    <li>Своя Доставка по Казани и окрестностям, стоимость в зависимости от адреса доставки 3000-4000₽ по городу</li>
-                    <li>📌Базируемся в п. Салмачи. Поэтому в в пределах ул. Овражная и ул. Мира платить за доставку не надо, только за часы работы</li>
-                    <li>Принимаем любые формы оплаты:
-                        <li>-1400 ₽/час наличкой</li>
-                        <li>-1500₽/час без НДС</li>
-                        <li>-1600₽/час с НДС</li>
-                        <li>-Минимум 4 часа</li>
-                    </li>
-                    <li>✅ уберем, погрузим снег</li>
-                    <li>✅ выpaвняем учаcткок</li>
-                    <li>✅ пoгpузим сыпучие мaтериалы</li>
-                    <li>✅ уберём мусop</li>
-                    <li>✅ и т.д</li>
-                </ol>
-            </div>
-        </div>
-        <div class="tt-card__with__bg">
-            <div class="towers-tour__card my-container">
-                <div class="tt-card__content tt-card__revers">
-                    <h3>Газель фургон длинной 4,30м</h3>
-                    <ol style="position:relative; top: 10px">
                     <li>Грузоподъемность до 2 тонн - 700 ₽/час</li>
                         <li>Тентованный фургон высотой 2,30м</li>
                         <li>Погрузка задняя</li>
                         <li>Безналичный оплата без НДС +10%, с НДС +20%</li>
                         <li>Минимальная оплата за 2 часа</li>
                         <li>Стоимость по межгороду, в зависимости от километража и груза по договорённости</li>
-                    </ol>
-                </div>
-
-                <div class="tt-card__image">
-                    <picture>
-                        <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica2.webp') }}">
-                        <img src="{{ asset('frontend/img/technics/texnica2.jpg') }}" width="670" height="450" alt="">
-                    </picture>
-                </div>
-
-            </div>
-        </div>
-        <div class="towers-tour__card my-container">
-            <div class="tt-card__image">
-                <picture>
-                    <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica1.webp') }}">
-                    <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="450" alt="">
-                </picture>
-            </div>
-            <div class="tt-card__content">
-                <h3>Пятитонник ISUZU фургон длинной 6,20м</h3>
-                <ol style="position:relative; top: 10px">
-                    <li>грузоподъемность до 6 тонн - 1200 ₽/час</li>
-                    <li>Металлический фургон (не изотермический) высотой 2,30м</li>
-                    <li>Погрузка задняя</li>
-                    <li>Безналичный оплата без НДС +10%, с НДС +20%</li>
-                    <li>Минимальная оплата за 3 часа</li>
-                    <li>Стоимость по межгороду, в зависимости от километража и груза по договорённости</li>
                 </ol>
             </div>
         </div>
@@ -155,7 +125,7 @@
                             <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="350" alt="">
                         </picture>
                     </a>
-                    <h2 class="op-card__title">Галерея нашей техники</h2>
+                    <h2 class="op-card__title">Галерея грузоперевозки</h2>
                     <a href="{{ route('gallery_technics') }}" class="op-card__link">Подробнее →</a>
                 </div>
                 <div class="op-main__card">

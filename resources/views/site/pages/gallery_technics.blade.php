@@ -23,9 +23,6 @@
                         </picture>
                     </a>
                 </div>
-                <!-- <h3><span>Высота Балатон 0,6×1,5м:</span> 4 м</h3>
-                <p><span>Назначение:</span> отделочные работы</p>
-                <p><span>Объект:</span> п. Лаишево</p> -->
             </div>
             <div class="gallery-card">
                 <div class="gallery-card__image">
@@ -36,11 +33,8 @@
                         </picture>
                     </a>
                 </div>
-                <!-- <h3><span>Высота Балатон 1*2м:</span> 4 м</h3>
-                <p><span>Назначение:</span> монтаж металлосайдинга</p>
-                <p><span>Объект:</span> п. Салмачи</p> -->
             </div>
-            <div class="gallery-card">
+            <!-- <div class="gallery-card">
                 <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/technics/texnica3.jpg') }}" class="gallery-show" title="Погрузчик, минитрактор">
                         <picture>
@@ -49,10 +43,7 @@
                         </picture>
                     </a>
                 </div>
-                <!-- <h3><span>Высота Балатон 1*2м:</span> 6 м</h3>
-                <p><span>Назначение:</span> покраска деревянного фасада</p>
-                <p><span>Объект:</span> п. Куземетьевское</p> -->
-            </div>
+           </div> -->
             <div class="gallery-card">
                 <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/technics/gaz3.jpg') }}" class="gallery-show" title="Газель, фургон длинной 5м">
@@ -62,9 +53,6 @@
                         </picture>
                     </a>
                 </div>
-                <!-- <h3><span>Высота Балатон 1*2м:</span> 6 м</h3>
-                <p><span>Назначение:</span> покраска деревянного фасада</p>
-                <p><span>Объект:</span> п. Куземетьевское</p> -->
             </div>
         </div>
     </section>

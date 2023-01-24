@@ -36,16 +36,16 @@ class SendLetterTelegram extends Notification
 //        return [TelegramChannel::class];
     }
 
-//    public function toTelegram($notifiable)
-//    {
-//        return TelegramMessage::create()
-//            // Optional recipient user id.
-//            ->to(env('TELEGRAM_CHAT_ID'))
-//            // Markdown supported.
-//            ->content("{$notifiable->input('hidden')}\n" .
-//                "Имя клиента: {$notifiable->input('name')}\n" .
-//                "Телефон клиента: {$notifiable->input('phone')}");
-//    }
+    /* public function toTelegram($notifiable)
+   {
+        return TelegramMessage::create()
+           // Optional recipient user id.
+            ->to(env('TELEGRAM_CHAT_ID'))
+            // Markdown supported.
+            ->content("{$notifiable->input('hidden')}\n" .
+                "Имя клиента: {$notifiable->input('name')}\n" .
+                "Телефон клиента: {$notifiable->input('phone')}");
+    } */
 
     /**
      * Get the mail representation of the notification.

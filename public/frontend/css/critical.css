@@ -30,7 +30,6 @@ kbd,
 q,
 s,
 samp,
-small,
 strike,
 strong,
 sub,
@@ -120,6 +119,10 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+}
+
+small{
+    opacity: none;
 }
 .btn_calc{
     margin-top: 36px;
@@ -408,10 +411,11 @@ p {
           align-items: center;
 }
 .header-phone a {
-  outline: none;
-  font-size: 18px;
-  color: #333333;
+    outline: none;
+    font-size: 18px;
+    color: #333333;
 }
+
 .header-phone a img,
 .cta-form__phone a img {
   margin-left: 12px;
@@ -982,7 +986,7 @@ main {
   }
 }
 @media screen and (max-width: 900px) {
-    
+
   .towers-tour__card {
     -webkit-box-pack: center;
         -ms-flex-pack: center;

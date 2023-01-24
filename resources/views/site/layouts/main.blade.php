@@ -79,7 +79,29 @@
 <script src='../../../../public/frontend/js/snow.js'></script> -->
 <script src='../../../../public/frontend/js/map.js'></script>
 <script src="https://res.smartwidgets.ru/app.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<!-- <script>
+        const TOKEN ='5940887407:AAEQyZKVi26E_H24-r5M2e2t6AsazvGdmuM';
+        const CHAT_ID = '-1001517424344';
+        const uri_api = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
+        document.getElementById('tg').addEventListener('submit', function(e){
+            e.preventDefault();
+
+            let message =`<b>Заявка</b>\n`;
+            message += `<b>Отправитель:</b> ${this.name.value}\n`;
+            message += `<b>Телефон:</b> ${this.phone.value}\n`;
+
+
+            axios.post(uri_api,{
+                chat_id: CHAT_ID,
+                parse_mode: 'html',
+                text: message
+            })
+
+        })
+
+    </script> -->
 
 </body>
 </html>

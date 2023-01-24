@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Notification;
 
 class MailController extends Controller
+
 {
     public function send(Request $request)
     {
@@ -25,7 +26,7 @@ class MailController extends Controller
         $to = explode(',', env('ADMIN_EMAILS'));
         Mail::to($to)->send(new SendMail($body));
 
-//        Notification::send($request, new SendLetterTelegram());
+      /*   Notification::send($request, new SendLetterTelegram()); */
 
         return view('site.mail.send');
     }
