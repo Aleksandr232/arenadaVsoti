@@ -74,19 +74,22 @@
     loadStyle("{{ asset('frontend/css/style.css') }}");
     loadStyle('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&family=Oswald:wght@400;500;700&display=swap');
 </script>
+
 <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=159d1b30-bef0-463b-a7f6-b69cba7ec8e9" type="text/javascript"></script>
 <!-- <script src="../../../../public/frontend/js/snowfall.js"></script>
 <script src='../../../../public/frontend/js/snow.js'></script> -->
 <script src='../../../../public/frontend/js/map.js'></script>
 <script src="https://res.smartwidgets.ru/app.js" defer></script>
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<!-- <script>
-        const TOKEN ='5940887407:AAEQyZKVi26E_H24-r5M2e2t6AsazvGdmuM';
-        const CHAT_ID = '-1001517424344';
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" defer>
+        const TOKEN ='5712282898:AAFrkaHw7Y-KDAPm1z6LBGj5lgG8YM6L_Uc';
+        const CHAT_ID = '-1001709775142';
         const uri_api = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
         document.getElementById('tg').addEventListener('submit', function(e){
             e.preventDefault();
+
+
 
             let message =`<b>Заявка</b>\n`;
             message += `<b>Отправитель:</b> ${this.name.value}\n`;
@@ -101,7 +104,7 @@
 
         })
 
-    </script> -->
+    </script>
 
 </body>
 </html>
