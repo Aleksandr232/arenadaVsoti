@@ -36,6 +36,11 @@ class PageController extends Controller
         return view('site.pages.technics_bars');
     }
 
+    public function gallery_technics_bars()
+    {
+        return view('site.pages.gallery_technics_bars');
+    }
+
     public function gallery_tower()
     {
         return view('site.pages.gallery_tower');

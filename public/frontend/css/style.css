@@ -323,6 +323,23 @@
   font-size: 18px;
   color: #3D5368;
 }
+
+.video_pos1{
+    position: relative;
+    left: 5px;
+}
+
+.video_pos2{
+    position: relative;
+    left: 10px;
+}
+
+video {
+    position: relative;
+    width: 320px;
+    height: 340px;
+}
+
 @media screen and (max-width: 1240px) {
 
   .call-to__action {
@@ -452,6 +469,24 @@
   }
 }
 @media screen and (max-width: 560px) {
+    .video_pos{
+        position: relative;
+        top: 5px;
+    }
+    .video_pos1{
+        position: relative;
+        top: 35px;
+    }
+    .video_pos2{
+        position: relative;
+        top: 58px;
+    }
+    video{
+        position: relative;
+        width:500px;
+        height: 340px;
+    }
+
     #map{
         display: none;
     }

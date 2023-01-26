@@ -38,7 +38,7 @@
                     <li>✅ и т.д</li>
                 </ol>
                 <video style="position: relative; top: 27px;" width="400" height="300" controls="controls" >
-                <source src="../../../../public/frontend/video/bars1.MOV">
+                <source src="../../../../public/frontend/video/barsik6.mp4">
             </video>
             </div>
         </div>
@@ -61,14 +61,14 @@
         <div class="tt-recommendations my-container">
             <div class="op-main">
                 <div class="op-main__card">
-                    <a href="{{ route('gallery_technics') }}">
+                    <a href="{{ route('gallery_technics_bars') }}">
                         <picture>
-                            <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica1.webp') }}">
-                            <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="350" alt="">
+                            <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica3.webp') }}">
+                            <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="670" height="350" alt="">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея минитрактора</h2>
-                    <a href="{{ route('gallery_technics') }}" class="op-card__link">Подробнее →</a>
+                    <a href="{{ route('gallery_technics_bars') }}" class="op-card__link">Подробнее →</a>
                 </div>
                 <div class="op-main__card">
                     <a href="{{ route('scaffolding') }}">

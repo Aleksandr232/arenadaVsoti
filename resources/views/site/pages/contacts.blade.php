@@ -35,7 +35,7 @@
                         <h4>Телефон:</h4>
                         <div class="cc-content__phone__container">
                             <img src="{{ asset('frontend/img/icons/telephone.svg') }}" width="18" height="18" alt="">
-                            <a href="tel:+79600625525">+7 960 062-55-25</a>
+                            <a href="tel:+79867120059">8 986 712-00-59</a>
                         </div>
                     </div>
                     <div class="cc-content__messengers">
