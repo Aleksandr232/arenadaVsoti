@@ -31,12 +31,12 @@ class SendLetterTelegram extends Notification
      */
     public function via($notifiable)
     {
-        return ['mail'];
+        /* return ['mail']; */
 
-//        return [TelegramChannel::class];
+       return [TelegramChannel::class];
     }
 
-    /* public function toTelegram($notifiable)
+    public function toTelegram($notifiable)
    {
         return TelegramMessage::create()
            // Optional recipient user id.
@@ -45,7 +45,7 @@ class SendLetterTelegram extends Notification
             ->content("{$notifiable->input('hidden')}\n" .
                 "Имя клиента: {$notifiable->input('name')}\n" .
                 "Телефон клиента: {$notifiable->input('phone')}");
-    } */
+    }
 
     /**
      * Get the mail representation of the notification.

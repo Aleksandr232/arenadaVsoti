@@ -81,7 +81,7 @@
 <script src='../../../../public/frontend/js/map.js'></script>
 <script src="https://res.smartwidgets.ru/app.js" defer></script>
 
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" defer>
+<!-- <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" defer>
         const TOKEN ='5712282898:AAFrkaHw7Y-KDAPm1z6LBGj5lgG8YM6L_Uc';
         const CHAT_ID = '-1001709775142';
         const uri_api = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
@@ -104,7 +104,7 @@
 
         })
 
-    </script>
+    </script> -->
 
 </body>
 </html>

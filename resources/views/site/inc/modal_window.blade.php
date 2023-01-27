@@ -1,6 +1,8 @@
+
+
 <div class="modal-window">
     <div class="modal">
-        <form  action="{{ route('send')}}"  id="tg"   method="post" autocomplete="on">
+        <form  action="{{ route('send')}}"     method="post" autocomplete="on">
             @csrf
             <h4 class="modal-title">Оставьте заявку, и мы свяжемся с вами в ближайшее время</h4>
             <label>
@@ -37,3 +39,4 @@
     </div>
     <div class="modal-bg"></div>
 </div>
+

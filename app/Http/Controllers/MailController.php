@@ -24,9 +24,9 @@ class MailController extends Controller
         $body .= "<p><span style='color: #3D5368'>Телефон клиента:</span> {$request->input('phone')}</p>";
 
         $to = explode(',', env('ADMIN_EMAILS'));
-        Mail::to($to)->send(new SendMail($body));
+        /* Mail::to($to)->send(new SendMail($body)); */
 
-      /*   Notification::send($request, new SendLetterTelegram()); */
+        Notification::send($request, new SendLetterTelegram());
 
         return view('site.mail.send');
     }
