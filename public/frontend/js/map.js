@@ -2,7 +2,7 @@ ymaps.ready(init);
 
 function init() {
     // Стоимость за километр.
-    var DELIVERY_TARIFF = 70,
+    var DELIVERY_TARIFF = 65,
     // Минимальная стоимость.
         MINIMUM_COST = 1500,
         myMap = new ymaps.Map('map', {
