@@ -19,7 +19,7 @@
                     <a href="{{ asset('frontend/img/technics/texnica1.jpg') }}" class="gallery-show" title="Пятитонник ISUZU фургон длинной 6,20м">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica1.webp') }}">
-                            <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="320" height="350" alt="Грузоперевозки Казань">
                         </picture>
                     </a>
                 </div>
@@ -29,7 +29,7 @@
                     <a href="{{ asset('frontend/img/technics/texnica2.jpg') }}" class="gallery-show" title="Газель фургон длинной 4,30м">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica2.webp') }}">
-                            <img src="{{ asset('frontend/img/technics/texnica2.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/technics/texnica2.jpg') }}" width="320" height="350" alt="Грузоперевозки Казань">
                         </picture>
                     </a>
                 </div>
@@ -49,7 +49,7 @@
                     <a href="{{ asset('frontend/img/technics/gaz3.jpg') }}" class="gallery-show" title="Газель, фургон длинной 5м">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/gaz3.webp') }}">
-                            <img src="{{ asset('frontend/img/technics/gaz3.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/technics/gaz3.jpg') }}" width="320" height="350" alt="Грузоперевозки Казань">
                         </picture>
                     </a>
                 </div>

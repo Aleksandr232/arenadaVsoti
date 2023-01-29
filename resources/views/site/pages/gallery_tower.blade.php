@@ -19,7 +19,7 @@
                     <a href="{{ asset('frontend/img/gallery/laishevo.jpg') }}" class="gallery-show" title="п. Лаишево">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/laishevo.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/laishevo.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/laishevo.jpg') }}" width="320" height="350" alt="вышки-туры">
                         </picture>
                     </a>
                 </div>
@@ -32,7 +32,7 @@
                     <a href="{{ asset('frontend/img/gallery/salmachi.jpg') }}" class="gallery-show" title="п. Салмачи">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/salmachi.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/salmachi.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/salmachi.jpg') }}" width="320" height="350" alt="вышки-туры">
                         </picture>
                     </a>
                 </div>
@@ -45,7 +45,7 @@
                     <a href="{{ asset('frontend/img/gallery/kuzemetevskoe.jpg') }}" class="gallery-show" title="п. Куземетьевское">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/kuzemetevskoe.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/kuzemetevskoe.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/kuzemetevskoe.jpg') }}" width="320" height="350" alt="вышки-туры">
                         </picture>
                     </a>
                 </div>
@@ -58,7 +58,7 @@
                     <a href="{{ asset('frontend/img/gallery/usady.jpg') }}" class="gallery-show" title="п. Усады">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/usady.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/usady.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/usady.jpg') }}" width="320" height="350" alt="вышки-туры">
                         </picture>
                     </a>
                 </div>
@@ -71,7 +71,7 @@
                     <a href="{{ asset('frontend/img/gallery/kazan-moll.jpg') }}" class="gallery-show" title="Казань-МОЛЛ">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/kazan-moll') }}.webp">
-                            <img src="{{ asset('frontend/img/gallery/kazan-moll.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/kazan-moll.jpg') }}" width="320" height="350" alt="вышки-туры">
                         </picture>
                     </a>
                 </div>
@@ -84,7 +84,7 @@
                     <a href="{{ asset('frontend/img/gallery/kabany.jpg') }}" class="gallery-show" title="п. Кабаны">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/kabany.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/kabany.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/kabany.jpg') }}" width="320" height="350" alt="вышки-туры">
                         </picture>
                     </a>
                 </div>
@@ -97,7 +97,7 @@
                     <a href="{{ asset('frontend/img/gallery/our-storage-salmachi.jpg') }}" class="gallery-show" title="наш склад в Салмычах">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/our-storage-salmachi.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/our-storage-salmachi.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/our-storage-salmachi.jpg') }}" width="320" height="350" alt="вышки-туры">
                         </picture>
                     </a>
                 </div>

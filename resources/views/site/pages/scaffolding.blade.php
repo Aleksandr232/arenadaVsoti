@@ -17,7 +17,7 @@
             <div class="scaffolding-image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-1.webp') }}">
-                    <img src="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-1.jpg') }}" width="670" height="350" alt="">
+                    <img src="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-1.jpg') }}" width="670" height="350" alt="аренда строительных лесов">
                 </picture>
             </div>
             <div class="scaffolding-content">
@@ -46,7 +46,7 @@
             <div class="sp-image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/stroitelnye-lesa/scaffolding-price.webp') }}">
-                    <img src="{{ asset('frontend/img/stroitelnye-lesa/scaffolding-price.jpg') }}" width="720" height="1280" alt="">
+                    <img src="{{ asset('frontend/img/stroitelnye-lesa/scaffolding-price.jpg') }}" width="720" height="1280" alt="аренда строительных лесов">
                 </picture>
             </div>
             <div class="sp-call-to-action">
@@ -67,7 +67,7 @@
                     <a href="{{ route('gallery_scaffolding') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-2.webp') }}">
-                            <img src="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-2.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-2.jpg') }}" width="670" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея наших лесов</h2>
@@ -77,7 +77,7 @@
                     <a href="{{ route('towers_tour') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-3.webp') }}">
-                            <img src="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-3.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/stroitelnye-lesa/stroitelnye-lesa-3.jpg') }}" width="670" height="350" alt="аренда тур">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Вышки-туры строительные</h2>

@@ -18,7 +18,7 @@
             <div class="tt-card__image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/technics/gaz7.webp') }}">
-                    <img src="{{ asset('frontend/img/technics/gaz7.jpg') }}" width="670" height="750" alt="">
+                    <img src="{{ asset('frontend/img/technics/gaz7.jpg') }}" width="670" height="750" alt="грузоперевозки казань">
                 </picture>
             </div>
             <div class="tt-card__content">
@@ -43,7 +43,7 @@
             <div class="tt-card__image">
                 <picture style="position:relative; top: 10px">
                     <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica1.webp') }}">
-                    <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="450" alt="">
+                    <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="450" alt="грузоперевозки казань">
                 </picture>
             </div>
             <div class="tt-card__content">
@@ -77,7 +77,7 @@
                 <div class="tt-card__image">
                     <picture>
                         <source type="image/webp" srcset="{{ asset('frontend/img/technics/gaz4.webp') }}">
-                        <img src="{{ asset('frontend/img/technics/gaz4.jpg') }}" width="670" height="450" alt="">
+                        <img src="{{ asset('frontend/img/technics/gaz4.jpg') }}" width="670" height="450" alt="грузоперевозки казань">
                     </picture>
                 </div>
 
@@ -87,7 +87,7 @@
             <div class="tt-card__image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica2.webp') }}">
-                    <img src="{{ asset('frontend/img/technics/texnica2.jpg') }}" width="670" height="450" alt="">
+                    <img src="{{ asset('frontend/img/technics/texnica2.jpg') }}" width="670" height="450" alt="грузоперевозки казань">
                 </picture>
             </div>
             <div class="tt-card__content">
@@ -122,7 +122,7 @@
                     <a href="{{ route('gallery_technics') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica1.webp') }}">
-                            <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/technics/texnica1.jpg') }}" width="670" height="350" alt="грузоперевозки казань">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея грузоперевозки</h2>
@@ -132,7 +132,7 @@
                     <a href="{{ route('scaffolding') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/recommendations-2.webp') }}">
-                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="вышки-туры казань">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Рамные строительные леса</h2>

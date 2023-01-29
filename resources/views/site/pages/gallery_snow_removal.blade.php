@@ -19,7 +19,7 @@
                     <a href="{{ asset('frontend/img/snow-removal/hige1.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/hige1.webp') }}">
-                            <img src="{{ asset('frontend/img/snow-removal/hige1.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/snow-removal/hige1.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
                         </picture>
                     </a>
                 </div>
@@ -32,7 +32,7 @@
                     <a href="{{ asset('frontend/img/snow-removal/hige3.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/hige3.webp') }}">
-                            <img src="{{ asset('frontend/img/snow-removal/hige3.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/snow-removal/hige3.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
                         </picture>
                     </a>
                 </div>
@@ -45,7 +45,7 @@
                     <a href="{{ asset('frontend/img/snow-removal/hige4.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/hige4.webp') }}">
-                            <img src="{{ asset('frontend/img/snow-removal/hige4.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/snow-removal/hige4.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
                         </picture>
                     </a>
                 </div>
@@ -58,7 +58,7 @@
                     <a href="{{ asset('frontend/img/snow-removal/hige5.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/hige5.webp') }}">
-                            <img src="{{ asset('frontend/img/snow-removal/hige5.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/snow-removal/hige5.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
                         </picture>
                     </a>
                 </div>
@@ -71,7 +71,7 @@
                     <a href="{{ asset('frontend/img/snow-removal/hige6.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/hige6.webp') }}">
-                            <img src="{{ asset('frontend/img/snow-removal/hige6.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/snow-removal/hige6.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
                         </picture>
                     </a>
                 </div>

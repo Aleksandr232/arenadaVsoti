@@ -16,10 +16,23 @@
         <div class="gallery">
         <div class="gallery-card">
                 <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/inpolis-night.jpg') }}" class="gallery-show" title="Иннополис. ул.Университетская">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/inpolis-night.webp') }}">
+                            <img src="{{ asset('frontend/img/gallery/inpolis-night.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~800 кв.м</h3>
+                <p><span>Назначение:</span>Монтаж утепленного вент фасада</p>
+                <p><span>Объект:</span>Иннополис. ул.Университетская </p>
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/gallery/inopolis.jpg') }}" class="gallery-show" title="Иннополис">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/inopolis.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/inopolis.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/inopolis.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -32,7 +45,7 @@
                     <a href="{{ asset('frontend/img/gallery/baumana.jpg') }}" class="gallery-show" title="ул. Баумана">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/baumana.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/baumana.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/baumana.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -45,7 +58,7 @@
                     <a href="{{ asset('frontend/img/gallery/malyye-mabany.jpg') }}" class="gallery-show" title="п. Малые Кабаны">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/malyye-mabany.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/malyye-mabany.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/malyye-mabany.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -58,7 +71,7 @@
                     <a href="{{ asset('frontend/img/gallery/adelya-kutuya.jpg') }}" class="gallery-show" title="ул. Аделя Кутуя">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/adelya-kutuya.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/adelya-kutuya.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/adelya-kutuya.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -71,7 +84,7 @@
                     <a href="{{ asset('frontend/img/gallery/school-gabishevo.jpg') }}" class="gallery-show" title="школа п. Габишево">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/school-gabishevo.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/school-gabishevo.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/school-gabishevo.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -84,7 +97,7 @@
                     <a href="{{ asset('frontend/img/gallery/vysokaya-gora.jpg') }}" class="gallery-show" title="п. Высокая Гора">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/vysokaya-gora.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/vysokaya-gora.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/vysokaya-gora.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -97,7 +110,7 @@
                     <a href="{{ asset('frontend/img/gallery/novoye-shigaleyevo.jpg') }}" class="gallery-show" title="п. Новое Шигалеево">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/novoye-shigaleyevo.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/novoye-shigaleyevo.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/novoye-shigaleyevo.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -110,7 +123,7 @@
                     <a href="{{ asset('frontend/img/gallery/rodiny.jpg') }}" class="gallery-show" title="ул. Родины">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/rodiny.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/rodiny.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/rodiny.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -123,7 +136,7 @@
                     <a href="{{ asset('frontend/img/gallery/garden.jpg') }}" class="gallery-show" title="п. Гарден">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/garden.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/garden.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/garden.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -136,7 +149,7 @@
                     <a href="{{ asset('frontend/img/gallery/gabishevo.jpg') }}" class="gallery-show" title="п. Габишево">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/gabishevo.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/gabishevo.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/gabishevo.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -149,7 +162,7 @@
                     <a href="{{ asset('frontend/img/gallery/ulyanova-lenina.jpg') }}" class="gallery-show" title="ул. Ульянова-Ленина">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/ulyanova-lenina.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/ulyanova-lenina.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/ulyanova-lenina.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -162,7 +175,7 @@
                     <a href="{{ asset('frontend/img/gallery/kasimovykh.jpg') }}" class="gallery-show" title="ул. Бр. Касимовых, 42">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/kasimovykh.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/kasimovykh.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/kasimovykh.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -175,7 +188,20 @@
                     <a href="{{ asset('frontend/img/gallery/kazanskiy-kreml.jpg') }}" class="gallery-show" title="Казанский кремль">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/kazanskiy-kreml.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/kazanskiy-kreml.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/kazanskiy-kreml.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> в целом на объекте ~4800 кв.м</h3>
+                <p><span>Назначение:</span> фасадные работы</p>
+                <p><span>Объект:</span> Казанский кремль</p>
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/night-tower.jpg') }}" class="gallery-show" title="Казанский кремль">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/night-tower.webp') }}">
+                            <img src="{{ asset('frontend/img/gallery/night-tower.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
                         </picture>
                     </a>
                 </div>
@@ -188,7 +214,7 @@
                     <a href="{{ asset('frontend/img/gallery/adoratskogo.jpg') }}" class="gallery-show" title="ул. Адоратского, 26А">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/adoratskogo.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/adoratskogo.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/adoratskogo.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
@@ -201,7 +227,7 @@
                     <a href="{{ asset('frontend/img/gallery/peschanyye-kovali.jpg') }}" class="gallery-show" title="пос. Песчанные Ковали">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/peschanyye-kovali.webp') }}">
-                            <img src="{{ asset('frontend/img/gallery/peschanyye-kovali.jpg') }}" width="320" height="350" alt="">
+                            <img src="{{ asset('frontend/img/gallery/peschanyye-kovali.jpg') }}" width="320" height="350" alt="аренда строительных лесов">
                         </picture>
                     </a>
                 </div>
