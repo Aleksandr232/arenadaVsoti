@@ -18,7 +18,7 @@
             <div class="tt-card__image">
                 <picture>
                     <source type="image/webp" srcset="{{asset('frontend/img/technics/texnica3.webp') }}">
-                    <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="470" height="470" alt="">
+                    <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="470" height="470" alt="аренда минитрактора казань">
                 </picture>
             </div>
             <div class="tt-card__content">
@@ -64,7 +64,7 @@
                     <a href="{{ route('gallery_technics_bars') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica3.webp') }}">
-                            <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="670" height="350" alt="аренда минитрактора казань">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея минитрактора</h2>
@@ -74,7 +74,7 @@
                     <a href="{{ route('scaffolding') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/recommendations-2.webp') }}">
-                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="аренда вышки туры">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Рамные строительные леса</h2>

@@ -17,7 +17,7 @@
             <div class="tt-card__image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/balton-1.webp') }}">
-                    <img src="{{ asset('frontend/img/tour-towers/balton-1.jpg') }}" width="670" height="350" alt="">
+                    <img src="{{ asset('frontend/img/tour-towers/balton-1.jpg') }}" width="670" height="350" alt="аренда вышки-туры казань">
                 </picture>
             </div>
             <div class="tt-card__content">
@@ -60,7 +60,7 @@
                 <div class="tt-card__image">
                     <picture>
                         <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/balton-2.webp') }}">
-                        <img src="{{ asset('frontend/img/tour-towers/balton-2.jpg') }}" width="670" height="350" alt="">
+                        <img src="{{ asset('frontend/img/tour-towers/balton-2.jpg') }}" width="670" height="350" alt="аренда вышки-туры казань">
                     </picture>
                 </div>
 
@@ -70,7 +70,7 @@
             <div class="tt-card__image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/balton-3.webp') }}">
-                    <img src="{{ asset('frontend/img/tour-towers/balton-3.jpg') }}" width="670" height="350" alt="">
+                    <img src="{{ asset('frontend/img/tour-towers/balton-3.jpg') }}" width="670" height="350" alt="аренда вышки-туры казань">
                 </picture>
             </div>
             <div class="tt-card__content">
@@ -98,7 +98,7 @@
             <div class="ptt-image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/towers-tour-price.webp') }}">
-                    <img src="{{ asset('frontend/img/tour-towers/towers-tour-price.jpg') }}" width="720" height="1280" alt="">
+                    <img src="{{ asset('frontend/img/tour-towers/towers-tour-price.jpg') }}" width="720" height="1280" alt="аренда вышки-туры казань">
                 </picture>
             </div>
             <div class="ptt-call-to-action">
@@ -119,7 +119,7 @@
                     <a href="{{ route('gallery_tower') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/recommendations-1.webp') }}">
-                            <img src="{{ asset('frontend/img/tour-towers/recommendations-1.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/tour-towers/recommendations-1.jpg') }}" width="670" height="350" alt="аренда вышки-туры казань">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея наших вышек-тур</h2>
@@ -129,7 +129,7 @@
                     <a href="{{ route('scaffolding') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/recommendations-2.webp') }}">
-                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="аренда вышки-туры казань">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Рамные строительные леса</h2>

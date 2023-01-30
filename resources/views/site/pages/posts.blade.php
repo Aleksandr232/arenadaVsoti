@@ -23,7 +23,7 @@
                     <div class="odd">
                         <div class="posts-card my-container">
                             <div class="pc-image pc-image__revers">
-                                <img src="{{ 'uploads/' . $post->img }}" alt="">
+                                <img src="{{ 'uploads/' . $post->img }}" alt="аренда лесов и вышек-тур">
                             </div>
                             <div class="pc-content pc-content__revers">
                                 <h2>{{ $post->title }}</h2>
@@ -35,7 +35,7 @@
                     <div class="even">
                         <div class="posts-card my-container">
                             <div class="pc-image">
-                                <img src="{{ 'uploads/' . $post->img }}" alt="">
+                                <img src="{{ 'uploads/' . $post->img }}" alt="аренда лесов и вышек-тур">
                             </div>
                             <div class="pc-content">
                                 <h2>{{ $post->title }}</h2>
@@ -64,7 +64,7 @@
                     <a href="{{ route('gallery') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/recommendations-1.webp') }}">
-                            <img src="{{ asset('frontend/img/tour-towers/recommendations-1.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/tour-towers/recommendations-1.jpg') }}" width="670" height="350" alt="аренда лесов и вышек-тур">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Галерея наших вышек-тур</h2>
@@ -74,7 +74,7 @@
                     <a href="{{ route('scaffolding') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/tour-towers/recommendations-2.webp') }}">
-                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/tour-towers/recommendations-2.jpg') }}" width="670" height="350" alt="аренда лесов и вышек-тур">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Рамные строительные леса</h2>

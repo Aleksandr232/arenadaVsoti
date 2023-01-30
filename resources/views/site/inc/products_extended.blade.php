@@ -3,7 +3,7 @@
         <div class="op-additional__card">
             <picture>
                 <source type="image/webp" srcset="{{ asset('frontend/img/main/retractable-ladders.webp') }}">
-                <img src="{{ asset('frontend/img/main/retractable-ladders.jpg') }}" width="320" height="350" alt="">
+                <img src="{{ asset('frontend/img/main/retractable-ladders.jpg') }}" width="320" height="350" alt="лестницы в аренду">
             </picture>
             <div class="opa-card__info">
                 <h2>Лестницы раздвижные</h2>
@@ -23,7 +23,7 @@
         <a href="{{ route('technics') }}">
             <picture>
                 <source type="image/webp" srcset="{{ asset('frontend/img/main/transport.webp') }}">
-                <img src="{{ asset('frontend/img/main/transport.jpg') }}" width="320" height="350" alt="">
+                <img src="{{ asset('frontend/img/main/transport.jpg') }}" width="320" height="350" alt="грузоперевозки">
             </picture>
         </a>
             <div class="opa-card__info">
@@ -48,7 +48,7 @@
         <a href="{{ route('technics_bars') }}">
             <picture>
                 <source type="image/webp" srcset="{{ asset('frontend/img/main/tractor.webp') }}">
-                <img src="{{ asset('frontend/img/main/tractor.jpg') }}" width="320" height="350" alt="">
+                <img src="{{ asset('frontend/img/main/tractor.jpg') }}" width="320" height="350" alt="аренда минитрактора">
             </picture>
         </a>
             <div class="opa-card__info">
@@ -69,7 +69,7 @@
             <a href="{{ route('gallery') }}">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/main/gallery.webp') }}">
-                    <img src="{{ asset('frontend/img/main/gallery.jpg') }}" width="320" height="350" alt="">
+                    <img src="{{ asset('frontend/img/main/gallery.jpg') }}" width="320" height="350" alt="аренда высоты">
                 </picture>
             </a>
             <div class="opa-card__info">

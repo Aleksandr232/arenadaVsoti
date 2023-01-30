@@ -27,7 +27,7 @@
                     <div class="cta-form__phone">
                         <a href="tel:+79867120059">8 986 712-00-59</a>
                         <a href="https://wa.me/+79867120059" title="Напишите нам в Whatsapp" target="_blank">
-                            <img src="{{ asset('frontend/img/icons/whatsapp.svg') }}" width="20" height="20" alt="">
+                            <img src="{{ asset('frontend/img/icons/whatsapp.svg') }}" width="20" height="20" alt="леса в аренду">
                         </a>
                     </div>
                     <button  class="cta-form__btn btn" data-btn="Заявка на обратный звонок">Заказать звонок</button>
@@ -39,7 +39,7 @@
                     <div class="advantage-card__insert__square"></div>
                     <div class="cta-advantage__card__content">
                         <div class="advantage-card__content__title">
-                            <img src="{{ asset('frontend/img/icons/percent.svg') }}" width="40" height="40" alt="">
+                            <img src="{{ asset('frontend/img/icons/percent.svg') }}" width="40" height="40" alt="леса в аренду">
                             <h3>Скидки</h3>
                         </div>
                         <p>Программа лояльности<br> для клиентов</p>
@@ -49,7 +49,7 @@
                     <div class="advantage-card__insert__square"></div>
                     <div class="cta-advantage__card__content">
                         <div class="advantage-card__content__title">
-                            <img src="{{ asset('frontend/img/icons/help.svg') }}" width="40" height="40" alt="">
+                            <img src="{{ asset('frontend/img/icons/help.svg') }}" width="40" height="40" alt="леса в аренду">
                             <h3>Помощь</h3>
                         </div>
                         <p>Консультации,<br> поддержка</p>
@@ -58,7 +58,7 @@
                 <div class="cta-advantage__card advantage-card__three">
                     <div class="cta-advantage__card__content">
                         <div class="advantage-card__content__title">
-                            <img src="{{ asset('frontend/img/icons/delivery.svg') }}" width="40" height="40" alt="">
+                            <img src="{{ asset('frontend/img/icons/delivery.svg') }}" width="40" height="40" alt="леса в аренду">
                             <h3>Доставка</h3>
                         </div>
                         <p>Оперативная доставка<br> 2-12 часов</p>
@@ -72,7 +72,7 @@
             <div class="au-photo">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/about-us.webp') }}">
-                    <img src="{{ asset('frontend/img/about-us.jpg') }}" width="644" height="300" alt="">
+                    <img src="{{ asset('frontend/img/about-us.jpg') }}" width="644" height="300" alt="леса в аренду">
                 </picture>
             </div>
             <div class="au-content">

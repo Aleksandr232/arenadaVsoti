@@ -27,14 +27,14 @@
                     <div class="cc-content__address">
                         <h4>Адрес:</h4>
                         <address>
-                            <img src="{{ asset('frontend/img/icons/location.svg') }}" width="18" height="18" alt="">
+                            <img src="{{ asset('frontend/img/icons/location.svg') }}" width="18" height="18" alt="леса в аренду">
                             Россия, Республика Татарстан, г. Казань, ул. Мирхайдара Файзи, 68
                         </address>
                     </div>
                     <div class="cc-content__phone">
                         <h4>Телефон:</h4>
                         <div class="cc-content__phone__container">
-                            <img src="{{ asset('frontend/img/icons/telephone.svg') }}" width="18" height="18" alt="">
+                            <img src="{{ asset('frontend/img/icons/telephone.svg') }}" width="18" height="18" alt="леса в аренду">
                             <a href="tel:+79867120059">8 986 712-00-59</a>
                         </div>
                     </div>
@@ -42,19 +42,19 @@
                         <h4>Мессенджеры:</h4>
                         <div class="cc-content__social__networks">
                             <a href="https://wa.me/+79600625525" title="Напишите нам в Whatsapp" target="_blank">
-                                <img src="{{ asset('frontend/img/icons/whatsapp.svg') }}" width="24" height="24" alt="">
+                                <img src="{{ asset('frontend/img/icons/whatsapp.svg') }}" width="24" height="24" alt="леса в аренду">
                             </a>
                             <a href="#" title="Мы в Инстаграм" target="_blank">
-                                <img src="{{ asset('frontend/img/icons/instagram.svg') }}" width="24" height="24" alt="">
+                                <img src="{{ asset('frontend/img/icons/instagram.svg') }}" width="24" height="24" alt="леса в аренду">
                             </a>
                             <a href="https://vk.com/arenda_visoti" title="Мы ВКонтакте" target="_blank">
-                                <img src="{{ asset('frontend/img/icons/vk.svg') }}" width="24" height="24" alt="">
+                                <img src="{{ asset('frontend/img/icons/vk.svg') }}" width="24" height="24" alt="леса в аренду">
                             </a>
                             <a href="https://www.facebook.com/arenda.visoti" title="Мы в Facebook" target="_blank">
-                                <img src="{{ asset('frontend/img/icons/facebook.svg') }}" width="24" height="24" alt="">
+                                <img src="{{ asset('frontend/img/icons/facebook.svg') }}" width="24" height="24" alt="леса в аренду">
                             </a>
                             <a href="https://t.me/HireHeightsbot" title="Напиши боту" target="_blank">
-                                <img src="{{ asset('frontend/img/icons/telegram.svg') }}" width="24" height="24" alt="">
+                                <img src="{{ asset('frontend/img/icons/telegram.svg') }}" width="24" height="24" alt="леса в аренду">
                             </a>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                     <a href="{{ route('scaffolding') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/main/scaffolding.webp') }}">
-                            <img src="{{ asset('frontend/img/main/scaffolding.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/main/scaffolding.jpg') }}" width="670" height="350" alt="леса в аренду">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Рамные строительные леса</h2>
@@ -88,7 +88,7 @@
                     <a href="{{ route('towers_tour') }}">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/main/tower.webp') }}">
-                            <img src="{{ asset('frontend/img/main/tower.jpg') }}" width="670" height="350" alt="">
+                            <img src="{{ asset('frontend/img/main/tower.jpg') }}" width="670" height="350" alt="леса в аренду">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Вышки-туры строительные</h2>
