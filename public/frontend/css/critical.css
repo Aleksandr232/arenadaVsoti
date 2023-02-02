@@ -123,6 +123,7 @@ table {
 
 small{
     opacity: none;
+    display: none;
 }
 .btn_calc{
     margin-top: 36px;

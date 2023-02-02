@@ -13,6 +13,7 @@
     <link rel="mask-icon" href="{{ asset('frontend/img/favicon/safari-pinned-tab.svg') }}" color="#4c9017">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
+    <meta name="robots" content="../../../../robots.txt"/>
     <!-- favicon end -->
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">
@@ -20,7 +21,7 @@
     <script defer src="{{ asset('frontend/js/script.js') }}"></script>
 
     <meta name="google-site-verification" content="djU7QCogw_T42v_Jr6ZxuoWq_Fy-giRQiiuxm4hkneE" />
-    <meta name="yandex-verification" content="1096a1a99c1e0da8" />
+    <meta name="yandex-verification" content="1811d7fb98bdaac0" />
 
     <!— Yandex.Metrika counter —>
     <script type="text/javascript" >
