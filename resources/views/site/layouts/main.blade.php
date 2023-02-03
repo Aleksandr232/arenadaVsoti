@@ -20,8 +20,9 @@
     <link rel="stylesheet" href="{{ asset('frontend/css/critical.css') }}">
     <script defer src="{{ asset('frontend/js/script.js') }}"></script>
 
-    <meta name="google-site-verification" content="djU7QCogw_T42v_Jr6ZxuoWq_Fy-giRQiiuxm4hkneE" />
+   <!--  <meta name="google-site-verification" content="djU7QCogw_T42v_Jr6ZxuoWq_Fy-giRQiiuxm4hkneE" /> -->
     <meta name="yandex-verification" content="1811d7fb98bdaac0" />
+    <meta name="google-site-verification" content="nAvMDNi00O6Xe5HGhZRNv63vy8Nw02PVm5heqbB2tOo" />
 
     <!— Yandex.Metrika counter —>
     <script type="text/javascript" >

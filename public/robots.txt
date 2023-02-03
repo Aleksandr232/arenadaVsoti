@@ -2,4 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /
 Sitemap: https://xn--80aagge2ckkol0hd.xn--p1ai/sitemap.xml
+Sitemap: https://xn--80aagge2ckkol0hd.xn--p1ai/sitemap1.xml
 Sitemap: https://арендавысоты.рф/sitemap.xml
+
+Host: xn--80aagge2ckkol0hd.xn--p1ai
