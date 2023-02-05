@@ -5,3 +5,18 @@ Sitemap: https://xn--80aagge2ckkol0hd.xn--p1ai/sitemap.xml
 Sitemap: https://арендавысоты.рф/sitemap.xml
 
 Host: xn--80aagge2ckkol0hd.xn--p1ai
+
+
+User-agent: Yandex
+Allow: /
+Sitemap: https://xn--80aagge2ckkol0hd.xn--p1ai/sitemap.xml
+Sitemap: https://арендавысоты.рф/sitemap.xml
+Host: xn--80aagge2ckkol0hd.xn--p1ai
+
+
+User-agent: Google
+Allow: /
+Sitemap: https://xn--80aagge2ckkol0hd.xn--p1ai/sitemap.xml
+Sitemap: https://арендавысоты.рф/sitemap.xml
+
+Host: xn--80aagge2ckkol0hd.xn--p1ai
