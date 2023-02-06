@@ -16,6 +16,19 @@
         <div class="gallery">
         <div class="gallery-card">
                 <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/inopolis_end.jpg') }}" class="gallery-show" title="Иннополис. ул.Университетская">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/inopolis_end.webp') }}">
+                            <img src="{{ asset('frontend/img/gallery/inopolis_end.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~800 кв.м</h3>
+                <p><span>Назначение:</span>Монтаж утепленного вент фасада (Завершения объекта)</p>
+                <p><span>Объект:</span>Иннополис. ул.Университетская </p>
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/gallery/inpolis-night.jpg') }}" class="gallery-show" title="Иннополис. ул.Университетская">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/inpolis-night.webp') }}">
