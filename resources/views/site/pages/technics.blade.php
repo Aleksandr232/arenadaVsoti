@@ -7,8 +7,8 @@
 
 @section('header_title')
     <div class="header-content my-container">
-        <h1>Наша техника <span>в Казани</span></h1>
-        <p></p>
+        <h1>Грузоперевозки <span>в Казани</span></h1>
+        <p>Предлагаем грузоперевозку по Казани, РТ и соседним регионам</p>
     </div>
 @endsection
 
