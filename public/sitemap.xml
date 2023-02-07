@@ -291,13 +291,6 @@
     <image:image>
       <image:loc>https://xn--80aagge2ckkol0hd.xn--p1ai/frontend/img/main/snow-removal.webp</image:loc>
     </image:image>
-    <video:video>
-    <video:title>Барсик</video:title>
-    <video:content_loc>
-      https://xn--80aagge2ckkol0hd.xn--p1ai/public/frontend/video/barsik6.mp4</video:content_loc>
-  </video:video>
-  <!-- As many additional <video> entries as you need -->
-  <video></video>
 </url>
 <url>
 	<loc>http://xn--80aagge2ckkol0hd.xn--p1ai/frontend/doc/balaton-0,6x1,5.pdf</loc>
