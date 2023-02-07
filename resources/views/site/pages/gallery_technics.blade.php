@@ -34,16 +34,6 @@
                     </a>
                 </div>
             </div>
-            <!-- <div class="gallery-card">
-                <div class="gallery-card__image">
-                    <a href="{{ asset('frontend/img/technics/texnica3.jpg') }}" class="gallery-show" title="Погрузчик, минитрактор">
-                        <picture>
-                            <source type="image/webp" srcset="{{ asset('frontend/img/technics/texnica3.webp') }}">
-                            <img src="{{ asset('frontend/img/technics/texnica3.jpg') }}" width="320" height="350" alt="">
-                        </picture>
-                    </a>
-                </div>
-           </div> -->
             <div class="gallery-card">
                 <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/technics/gaz3.jpg') }}" class="gallery-show" title="Газель, фургон длинной 5м">
