@@ -93,7 +93,10 @@
     </section>
     <section id="price-towers__tour">
         <div class="price-towers__tour my-container">
-            <h2 class="ptt-title">Стоимость аренды вышек-туров</h2>
+        <div class="sp-bg">
+            <h2 class="sp-title">Стоимость аренды вышек-туров</h2>
+            <h2 class="sp-title_min"> Цены могут меняться в зависимости от сезона и объема взятого в аренду оборудования</h2>
+        </div>
             <p class="ptt-description">Минимальная сумма заказа в размере арендной платы за 7 дней</p>
             <div class="ptt-image">
                 <picture>

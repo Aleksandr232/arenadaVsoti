@@ -39,7 +39,10 @@
     </section>
     <section id="scaffolding-price">
         <div class="scaffolding-price my-container">
+            <div class="sp-bg">
             <h2 class="sp-title">Стоимость аренды лесов</h2>
+            <h2 class="sp-title_min"> Цены могут меняться в зависимости от сезона и объема взятого в аренду оборудования</h2>
+            </div>
             <div class="download-price">
                 <a href="{{ asset('frontend/doc/price.xlsx') }}" target="_blank">Скачать прайс →</a>
             </div>

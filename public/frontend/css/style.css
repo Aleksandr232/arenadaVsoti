@@ -469,6 +469,13 @@ video {
   }
 }
 @media screen and (max-width: 560px) {
+
+    .sp-bg{
+        background: #3D5368;
+        text-align: center;
+        width: 100%;
+        margin: 0 auto;
+    }
     .video_pos{
         position: relative;
         top: 5px;

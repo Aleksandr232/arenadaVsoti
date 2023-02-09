@@ -1125,7 +1125,21 @@ main {
   text-align: center;
   font-size: 25px;
   font-weight: 700;
-  color: #9fb3bc;
+  color: #ffffff;
+}
+
+.sp-bg{
+    background: #3D5368;
+    text-align: center;
+    width: 676px;
+    margin: 0 auto;
+}
+
+.sp-title_min{
+    font-size: 12px;
+    text-align: center;
+    font-weight: 700;
+    color: #ffffff;
 }
 .download-price {
   margin-top: 10px;
