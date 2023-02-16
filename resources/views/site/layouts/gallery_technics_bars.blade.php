@@ -13,8 +13,8 @@
     <link rel="mask-icon" href="{{ asset('frontend/img/favicon/safari-pinned-tab.svg') }}" color="#4c9017">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
-    <meta name="googlebot" content="index">
-    <meta name="robots" content="index">
+    <meta name="googlebot" content="all">
+    <meta name="robots" content="all">
     <!-- favicon end -->
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">

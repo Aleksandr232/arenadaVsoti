@@ -25,8 +25,8 @@
 
     <meta name="google-site-verification" content="djU7QCogw_T42v_Jr6ZxuoWq_Fy-giRQiiuxm4hkneE" />
     <meta name="yandex-verification" content="1811d7fb98bdaac0" />
-    <meta name="googlebot" content="index">
-    <meta name="robots" content="index">
+    <meta name="googlebot" content="all">
+    <meta name="robots" content="all">
 
      <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
