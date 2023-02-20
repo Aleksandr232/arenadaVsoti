@@ -51,7 +51,28 @@
             <div class="gallery-card__image">
                     <div class="video_pos2">
                         <video controls="controls">
-                            <source src="../../../../public/frontend/video/bars4.MOV">
+                            <source src="../../../../public/frontend/video/barsik_snow1.MOV">
+                        </video>
+                    </div>
+            </div>
+            <div class="gallery-card__image">
+                    <div class="video_pos3">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/barsik_snow2.MP4">
+                        </video>
+                    </div>
+            </div>
+            <div class="gallery-card__image">
+                    <div class="video_pos4">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/barsik_snow3.MP4">
+                        </video>
+                    </div>
+            </div>
+            <div class="gallery-card__image">
+                    <div class="video_pos5">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/barsik_snow4.MP4">
                         </video>
                     </div>
             </div>

@@ -15,6 +15,7 @@
     <meta name="theme-color" content="#ffffff">
     <meta name="googlebot" content="all">
     <meta name="robots" content="all">
+    <meta name="yandex" content="all" />
     <!-- favicon end -->
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">

@@ -23,6 +23,7 @@
     <meta name="yandex-verification" content="1811d7fb98bdaac0" />
     <meta name="googlebot" content="all">
     <meta name="robots" content="all">
+    <meta name="yandex" content="all" />
 
      <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >

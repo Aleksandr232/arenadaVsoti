@@ -334,6 +334,21 @@
     left: 10px;
 }
 
+.video_pos3{
+    position: relative;
+    left: 32px;
+}
+
+.video_pos4{
+    position: relative;
+    left: 52px;
+}
+
+.video_pos5{
+    position: relative;
+    left: 76px;
+}
+
 video {
     position: relative;
     width: 320px;
