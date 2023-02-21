@@ -49,7 +49,7 @@
             <div class="sp-image">
                 <picture>
                     <source type="image/webp" srcset="{{ asset('frontend/img/stroitelnye-lesa/scaffolding-price.webp') }}">
-                    <img src="{{ asset('frontend/img/stroitelnye-lesa/scaffolding-price.jpg') }}" title="цены аренда лесов" width="720" height="1280" alt="аренда строительных лесов">
+                    <img src="{{ asset('frontend/img/stroitelnye-lesa/scaffolding-price.jpg') }}" title="цены аренда лесов" width="720" height="1280" alt="строительные леса казань">
                 </picture>
             </div>
             <div class="sp-call-to-action">
