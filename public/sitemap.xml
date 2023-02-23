@@ -11,24 +11,31 @@
 	<priority>1.0</priority>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/scaffolding.webp</image:loc>
+      <image:title>строительные леса</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/kazan-moll.webp</image:loc>
+      <image:title>вышки-туры казань</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/retractable-ladders.webp</image:loc>
+      <image:title>лестницы казань аренда</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/transport.webp</image:loc>
+      <image:title>грузоперевозки</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/tractor.webp</image:loc>
+      <image:title> трактор казань</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/snow-removal.webp</image:loc>
+      <image:title>уборка снега</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/about-us.webp</image:loc>
+      <image:title>аренда высоты наш склад</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/about-us.jpg</image:loc>
@@ -45,33 +52,43 @@
 	<priority>1.0</priority>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/tour-towers/balton-1.webp</image:loc>
+      <image:title>вышки-туры казань</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/tour-towers/balton-2.webp</image:loc>
+      <image:title>вышки-туры казань аренда</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/tour-towers/balton-3.webp</image:loc>
+      <image:title>вышки-туры аренда</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/tour-towers/towers-tour-price.webp</image:loc>
+      <image:title>вышки-туры казань заказать</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/tour-towers/recommendations-1.webp</image:loc>
+      <image:title>вышки-туры купить</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/tour-towers/recommendations-2.webp</image:loc>
+      <image:title>вышки-туры доставка по казани</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/retractable-ladders.webp</image:loc>
+      <image:title>лестницы казань</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/transport.webp</image:loc>
+      <image:title>грузоперевозки казань</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/tractor.webp</image:loc>
+      <image:title>минитрактор казань</image:title>
     </image:image>
     <image:image>
       <image:loc>https://арендавысоты.рф/frontend/img/main/snow-removal.webp</image:loc>
+      <image:title>уборка снега казань</image:title>
     </image:image>
 </url>
 <url>
