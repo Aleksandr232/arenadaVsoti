@@ -377,20 +377,129 @@
 	<loc>https://арендавысоты.рф/галерея-строительных-лесов</loc>
 	<lastmod>2023-02-03T12:45:25+01:00</lastmod>
 	<priority>1.0</priority>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/inpolis-night.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/inopolis.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/baumana.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/malyye-mabany.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/adelya-kutuya.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/school-gabishevo.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/vysokaya-gora.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/novoye-shigaleyevo.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/rodiny.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/garden.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/gabishevo.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/ulyanova-lenina.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/kasimovykh.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/kazanskiy-kreml.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/night-tower.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/adoratskogo.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/gallery/peschanyye-kovali.webp</image:loc>
+      <image:title>строительные леса</image:title>
+    </image:image>
 </url>
 <url>
 	<loc>https://арендавысоты.рф/галерея-техника</loc>
 	<lastmod>2023-02-03T12:45:26+01:00</lastmod>
 	<priority>1.0</priority>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/technics/texnica1.webp</image:loc>
+      <image:title>грузоперевозки казань</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/technics/texnica2.webp</image:loc>
+      <image:title>грузоперевозки казань</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/technics/gaz3.jpg</image:loc>
+      <image:title>грузоперевозки казань</image:title>
+    </image:image>
+
 </url>
 <url>
 	<loc>https://арендавысоты.рф/галерея-уборка-снега</loc>
 	<lastmod>2023-02-03T12:45:27+01:00</lastmod>
 	<priority>1.0</priority>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/snow-removal/hige1.jpg</image:loc>
+      <image:title>уборка снега казань</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/snow-removal/hige3.jpg</image:loc>
+      <image:title>уборка снега казань</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/snow-removal/hige4.jpg</image:loc>
+      <image:title>уборка снега казань</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/snow-removal/hige5.jpg</image:loc>
+      <image:title>уборка снега казань</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/snow-removal/hige6.jpg</image:loc>
+      <image:title>уборка снега казань</image:title>
+    </image:image>
 </url>
 <url>
 	<loc>https://арендавысоты.рф/галерея-минитрактор</loc>
 	<lastmod>2023-02-03T12:45:29+01:00</lastmod>
 	<priority>1.0</priority>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/technics/texnica3.jpg</image:loc>
+      <image:title>аренда минитрактора казань</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://арендавысоты.рф/frontend/img/technics/bars9.jpg</image:loc>
+      <image:title>аренда минитрактора казань</image:title>
+    </image:image>
 </url>
 </urlset>
