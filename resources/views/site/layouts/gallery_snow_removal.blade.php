@@ -11,8 +11,10 @@
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('frontend/img/favicon/favicon-16x16.png') }}">
     <link rel="manifest" href="{{ asset('frontend/img/favicon/site.webmanifest') }}">
     <link rel="mask-icon" href="{{ asset('frontend/img/favicon/safari-pinned-tab.svg') }}" color="#4c9017">
+    <link rel="canonical" href="https://арендавысоты.рф/галерея-уборка-снега" />
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
+    <meta name="">
     <meta name="googlebot" content="all">
     <meta name="robots" content="all">
     <meta name="yandex" content="all" />
