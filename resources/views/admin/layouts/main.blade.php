@@ -65,7 +65,7 @@
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-edit"></i>
                         <p>
-                            Статьи
+                            Новости
                             <i class="right fas fa-angle-left"></i>
                         </p>
                     </a>
@@ -73,13 +73,13 @@
                         <li class="nav-item">
                             <a href="{{ route('posts.index') }}" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Список статей</p>
+                                <p>Список новостей</p>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a href="{{ route('posts.create') }}" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Новая статья</p>
+                                <p>Новая новость</p>
                             </a>
                         </li>
                     </ul>

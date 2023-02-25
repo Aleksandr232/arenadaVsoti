@@ -22,24 +22,24 @@
                                 <div class="inner">
                                     <h3>{{ count($posts) }}</h3>
 
-                                    <p>Всего статей</p>
+                                    <p>Всего новостей</p>
                                 </div>
                                 <div class="icon">
                                     <i class="ion ion-bag"></i>
                                 </div>
-                                <a href="{{ route('posts.index') }}" class="small-box-footer">Список статей <i class="fas fa-arrow-circle-right"></i></a>
+                                <a href="{{ route('posts.index') }}" class="small-box-footer">Список новостей <i class="fas fa-arrow-circle-right"></i></a>
                             </div>
                         @else
                             <!-- small box -->
                                 <div class="small-box bg-info">
                                     <div class="inner">
                                         <h3>0</h3>
-                                        <p>Всего статей</p>
+                                        <p>Всего новостей</p>
                                     </div>
                                     <div class="icon">
                                         <i class="ion ion-bag"></i>
                                     </div>
-                                    <a href="{{ route('posts.index') }}" class="small-box-footer">Список статей <i class="fas fa-arrow-circle-right"></i></a>
+                                    <a href="{{ route('posts.index') }}" class="small-box-footer">Список новостей <i class="fas fa-arrow-circle-right"></i></a>
                                 </div>
                         @endif
                     </div>

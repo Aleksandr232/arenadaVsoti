@@ -20,14 +20,14 @@
                     <div class="card">
                         <!-- /.card-header -->
                         <div class="card-body">
-                            <a href="{{ route('posts.create') }}" class="btn btn-primary mb-3">Добавить статью</a>
+                            <a href="{{ route('posts.create') }}" class="btn btn-primary mb-3">Добавить новость</a>
                             @if (count($posts))
                                 <div class="table-responsive">
                                     <table class="table table-bordered table-hover text-nowrap">
                                         <thead>
                                         <tr>
                                             <th>Фото</th>
-                                            <th>Название статьи</th>
+                                            <th>Название новости</th>
                                             <th>Дата создания</th>
                                             <th>Действия</th>
                                         </tr>

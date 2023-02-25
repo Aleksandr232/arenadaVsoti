@@ -32,7 +32,7 @@ Route::get('/галерея-уборка-снега', [PageController::class, 'g
 Route::get('/минитрактор', [PageController::class, 'technics_bars'])->name('technics_bars');
 Route::get('/галерея-минитрактор', [PageController::class, 'gallery_technics_bars'])->name('gallery_technics_bars');
 Route::get('/наши-контакты', [PageController::class, 'contacts'])->name('contacts');
-Route::get('/статьи', [PageController::class, 'posts'])->name('posts');
+Route::get('/новости', [PageController::class, 'posts'])->name('posts');
 Route::post('/письмо-отправлено', [MailController::class, 'send'])->name('send');
 
 

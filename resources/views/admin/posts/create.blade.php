@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>Добавление статьи</h1>
+                    <h1>Добавление новости</h1>
                 </div>
             </div>
         </div><!-- /.container-fluid -->
@@ -21,15 +21,15 @@
                     @csrf
                     <div class="card-body">
                         <div class="form-group">
-                            <label for="title">Заголовок статьи</label>
+                            <label for="title">Заголовок новости</label>
                             <input type="text" name="title" id="title" class="form-control @error('title') is-invalid @enderror" placeholder="Введите заголовок">
                         </div>
                         <div class="form-group">
-                            <label for="content">Описание статьи</label>
+                            <label for="content">Описание новости</label>
                             <textarea name="content" id="content" class="form-control @error('title') is-invalid @enderror" rows="10" placeholder="Напишите статью ..."></textarea>
                         </div>
                         <div class="form-group col-6">
-                            <label for="img">Фотография статьи</label>
+                            <label for="img">Фотография новости</label>
                             <div class="custom-file">
                                 <input type="file" name="img" class="custom-file-input @error('title') is-invalid @enderror" id="img">
                                 <label class="custom-file-label" for="file">Выберите фото</label>
