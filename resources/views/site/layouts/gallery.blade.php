@@ -75,11 +75,11 @@
 </script>
 
 <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
+ <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+ -->
 <!-- Magnific Popup core JS file -->
-<script src="{{ asset('frontend/js/jquery.magnific-popup.js') }}"></script>
-
+<!-- <script src="{{ asset('frontend/js/jquery.magnific-popup.js') }}"></script>
+ -->
 <script>
     $(document).ready(function() {
         $(document).ready(function() {

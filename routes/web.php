@@ -24,7 +24,7 @@ Route::get('/вышки-туры', [PageController::class, 'towers_tour'])->name
 Route::get('/техника', [PageController::class, 'technics'])->name('technics');
 Route::get('/строительные-леса', [PageController::class, 'scaffolding'])->name('scaffolding');
 Route::get('/уборка-снега-с-крыш', [PageController::class, 'snow_removal'])->name('snow_removal');
-Route::get('/галерея-строительных-лесов-и-вышек-тур', [PageController::class, 'gallery'])->name('gallery');
+Route::get('/галерея', [PageController::class, 'gallery'])->name('gallery');
 Route::get('/галерея-вышек-тур', [PageController::class, 'gallery_tower'])->name('gallery_tower');
 Route::get('/галерея-строительных-лесов', [PageController::class, 'gallery_scaffolding'])->name('gallery_scaffolding');
 Route::get('/галерея-техника', [PageController::class, 'gallery_technics'])->name('gallery_technics');
