@@ -1,8 +1,8 @@
 @extends('site.layouts.main_technics')
 
 
-@section('title', 'Грузоперевозки Казань')
-@section('description', 'Грузоперевозки, доставка по городу, техника')
+@section('title', 'Грузоперевозки  «Аренда высоты»')
+@section('description', 'Грузоперевозки по Казани, перевоз строительного оборудования и т.д ')
 @section('keywords', 'грузоперевозки казань, доставка, доставка лесов, техника')
 
 @section('header_title')

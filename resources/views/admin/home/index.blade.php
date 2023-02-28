@@ -22,7 +22,7 @@
                                 <div class="inner">
                                     <h3>{{ count($posts) }}</h3>
 
-                                    <p>Всего новостей</p>
+                                    <p>Всего статей</p>
                                 </div>
                                 <div class="icon">
                                     <i class="ion ion-bag"></i>

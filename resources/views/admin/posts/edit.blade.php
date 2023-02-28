@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>Редактирование новости</h1>
+                    <h1>Редактирование статьи</h1>
                 </div>
             </div>
         </div><!-- /.container-fluid -->
@@ -27,15 +27,15 @@
                             </label>
                         </div>
                         <div class="form-group">
-                            <label for="title">Заголовок новости</label>
+                            <label for="title">Заголовок статьи</label>
                             <input type="text" name="title" id="title" class="form-control @error('title') is-invalid @enderror" value="{{ $post->title }}">
                         </div>
                         <div class="form-group">
-                            <label for="content">Описание новости</label>
+                            <label for="content">Описание статьи</label>
                             <textarea name="content" id="content" class="form-control @error('content') is-invalid @enderror" rows="10">{{ $post->content }}</textarea>
                         </div>
                         <div class="form-group col-6">
-                            <label for="img">Фотография новости</label>
+                            <label for="img">Фотография статьи</label>
                             <div class="custom-file">
                                 <input type="file" name="img" class="custom-file-input @error('img') is-invalid @enderror" id="img" value="{{ $post->img }}">
                                 <label class="custom-file-label" for="file">Выберите фото</label>

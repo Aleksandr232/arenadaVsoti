@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1>Список статей</h1>
+                    <h1>Список новостей</h1>
                 </div>
             </div>
         </div><!-- /.container-fluid -->
@@ -20,14 +20,14 @@
                     <div class="card">
                         <!-- /.card-header -->
                         <div class="card-body">
-                            <a href="{{ route('posts.create') }}" class="btn btn-primary mb-3">Добавить новость</a>
+                            <a href="{{ route('posts.create') }}" class="btn btn-primary mb-3">Добавить статью</a>
                             @if (count($posts))
                                 <div class="table-responsive">
                                     <table class="table table-bordered table-hover text-nowrap">
                                         <thead>
                                         <tr>
                                             <th>Фото</th>
-                                            <th>Название новости</th>
+                                            <th>Название статьи</th>
                                             <th>Дата создания</th>
                                             <th>Действия</th>
                                         </tr>
