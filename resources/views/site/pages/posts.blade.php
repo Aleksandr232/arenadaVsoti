@@ -6,7 +6,7 @@
 
 @section('header_title')
     <div class="header-content my-container">
-        <h1>Новости<br><span>Аренды высоты</span></h1>
+        <h1>Статьи<br><span>Аренды высоты</span></h1>
         <p>Предлагаем в аренду рамные строительные леса, строительные вышки-туры, раздвижные лестницы. Дополнительно оказываем услуги на минитракторе МКСМ, а также услуги строительного альпинизма по очистке снега с крыш. Осуществляем доставку оборудования нашим автотранспортом по Казани и Республике Татарстан</p>
     </div>
 @endsection
@@ -50,7 +50,7 @@
             @endforeach
         </div>
         <div class="pc-pagination">
-            <div class="my-container" style="margin-top: 36px;">{{ $posts->links() }}</div>
+            <div class="my-container" style="margin-top: 36px; text-align: center; ">{{ $posts->links() }}</div>
         </div>
     </section>
     <!-- include our-products start -->

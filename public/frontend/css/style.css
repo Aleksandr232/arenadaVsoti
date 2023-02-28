@@ -349,6 +349,17 @@
     left: 76px;
 }
 
+.video_pos6{
+    position: relative;
+    top: 20px;
+}
+
+.video_pos7{
+    position: relative;
+    top: 20px;
+    left: 32px;
+}
+
 video {
     position: relative;
     width: 320px;

@@ -76,6 +76,20 @@
                         </video>
                     </div>
             </div>
+            <div class="gallery-card__image">
+                    <div class="video_pos6">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/newbars1.MOV">
+                        </video>
+                    </div>
+            </div>
+            <div class="gallery-card__image">
+                    <div class="video_pos7">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/newbars2.MOV">
+                        </video>
+                    </div>
+            </div>
         </div>
     </section>
     <!-- include our-products start -->
