@@ -45,11 +45,11 @@
                     </div>
                     <!-- ./col -->
                     <div class="col-lg-3 col-6">
-                        @if(count($posts_news))
+                        @if(count($posts))
                             <!-- small box -->
                             <div class="small-box bg-info">
                                 <div class="inner">
-                                    <h3>{{ count($posts_news) }}</h3>
+                                    <h3>{{ count($posts) }}</h3>
 
                                     <p>Всего новостей</p>
                                 </div>

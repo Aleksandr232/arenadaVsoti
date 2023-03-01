@@ -79,6 +79,45 @@
                 <p><span>Назначение:</span> покраска деревянного фасада</p>
                 <p><span>Объект:</span> п. Куземетьевское</p> -->
             </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/snow-removal/alip.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/alip.jpg') }}">
+                            <img src="{{ asset('frontend/img/snow-removal/alip.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
+                        </picture>
+                    </a>
+                </div>
+                <!-- <h3><span>Высота Балатон 1*2м:</span> 6 м</h3>
+                <p><span>Назначение:</span> покраска деревянного фасада</p>
+                <p><span>Объект:</span> п. Куземетьевское</p> -->
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/snow-removal/alip2.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/alip2.jpg') }}">
+                            <img src="{{ asset('frontend/img/snow-removal/alip2.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
+                        </picture>
+                    </a>
+                </div>
+                <!-- <h3><span>Высота Балатон 1*2м:</span> 6 м</h3>
+                <p><span>Назначение:</span> покраска деревянного фасада</p>
+                <p><span>Объект:</span> п. Куземетьевское</p> -->
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/snow-removal/alip3.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/alip3.jpg') }}">
+                            <img src="{{ asset('frontend/img/snow-removal/alip3.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
+                        </picture>
+                    </a>
+                </div>
+                <!-- <h3><span>Высота Балатон 1*2м:</span> 6 м</h3>
+                <p><span>Назначение:</span> покраска деревянного фасада</p>
+                <p><span>Объект:</span> п. Куземетьевское</p> -->
+            </div>
         </div>
     </section>
     <!-- include our-products start -->

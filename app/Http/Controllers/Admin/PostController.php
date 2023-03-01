@@ -12,9 +12,9 @@ class PostController extends Controller
     public function index()
     {
         $posts = Post::query()->paginate(10);
-        $posts_news = Post::query()->paginate(10);
 
-        return view('admin.posts.index', compact('posts', 'posts_news'));
+
+        return view('admin.posts.index', compact('posts'));
 
     }
 
@@ -24,6 +24,7 @@ class PostController extends Controller
     {
         return view('admin.posts.create');
     }
+
 
 
 
@@ -44,6 +45,8 @@ class PostController extends Controller
 
         $data = $request->all();
         $data['img'] = Post::uploadImage($request);
+
+        
 
         $post = Post::query()->create($data);
 

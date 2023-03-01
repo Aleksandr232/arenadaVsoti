@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Admin\AdminController;
 use App\Http\Controllers\Admin\PostController;
+use App\Http\Controllers\Admin\PostNewsController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\MailController;
 use App\Http\Controllers\PageController;
@@ -32,14 +33,14 @@ Route::get('/галерея-уборка-снега', [PageController::class, 'g
 Route::get('/минитрактор', [PageController::class, 'technics_bars'])->name('technics_bars');
 Route::get('/галерея-минитрактор', [PageController::class, 'gallery_technics_bars'])->name('gallery_technics_bars');
 Route::get('/наши-контакты', [PageController::class, 'contacts'])->name('contacts');
-Route::get('/новости', [PageController::class, 'posts'])->name('posts');
+Route::get('/статьи', [PageController::class, 'posts'])->name('posts');
 Route::post('/письмо-отправлено', [MailController::class, 'send'])->name('send');
 
 
 Route::prefix('admin')->middleware('admin')->group(function () {
     Route::get('/',  [AdminController::class, 'index'])->name('admin');
     Route::resource('/posts', PostController::class);
-    Route::resource('/posts_news', PostController::class);
+    Route::resource('/posts_news', PostNewsController::class);
 });
 
 Route::middleware('guest')->group(function () {

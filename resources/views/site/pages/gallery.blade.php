@@ -17,7 +17,7 @@
         <div class="gallery-card">
                 <div class="gallery-card__image">
                      <a href="{{ route('gallery_scaffolding') }}"  class="gallery-show" title="Строительные леса">
-                            <img src="../../../../public/frontend/img/stroitelnye-lesa/stroitelnye-lesa-2.jpg" width="320" height="350" alt="аренда лесов и тур">
+                            <img src="../../../../public/frontend/img/gallery/inopolis_end.jpg" width="320" height="350" alt="аренда лесов и тур">
                     </a>
 
                 </div>
@@ -35,7 +35,7 @@
         <div class="gallery-card">
                 <div class="gallery-card__image">
                      <a href="{{ route('gallery_technics') }}"  class="gallery-show" title="Грузоперевозки">
-                            <img src="../../../../public/frontend/img/main/transport.jpg" width="320" height="350" alt="грузоперовозки">
+                            <img src="../../../../public/frontend/img/technics/news7.jpg" width="320" height="350" alt="грузоперовозки">
                     </a>
 
                 </div>
@@ -44,7 +44,7 @@
         <div class="gallery-card">
                 <div class="gallery-card__image">
                      <a href="{{ route('gallery_technics_bars') }}"  class="gallery-show" title="Минитрактор">
-                            <img src="../../../../public/frontend/img/main/tractor.jpg" width="320" height="350" alt="аренда минитрактор">
+                            <img src="../../../../public/frontend/img/technics/bars9.jpg" width="320" height="350" alt="аренда минитрактор">
                     </a>
 
                 </div>
@@ -54,7 +54,7 @@
         <div class="gallery-card">
                 <div class="gallery-card__image">
                      <a href="{{ route('gallery_snow_removal') }}"  class="gallery-show" title="Уборка снега с крыш">
-                            <img src="../../../../public/frontend/img/main/snow-removal.jpg" width="320" height="350" alt="уборка снега с крыш">
+                            <img src="../../../../public/frontend/img/snow-removal/alip2.jpg" width="320" height="350" alt="уборка снега с крыш">
                     </a>
 
                 </div>
