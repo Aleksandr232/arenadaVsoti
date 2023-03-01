@@ -37,8 +37,9 @@ Route::post('/письмо-отправлено', [MailController::class, 'send'
 
 
 Route::prefix('admin')->middleware('admin')->group(function () {
-    Route::get('/', [AdminController::class, 'index'])->name('admin');
+    Route::get('/',  [AdminController::class, 'index'])->name('admin');
     Route::resource('/posts', PostController::class);
+    Route::resource('/posts_news', PostController::class);
 });
 
 Route::middleware('guest')->group(function () {

@@ -11,17 +11,46 @@ class PostController extends Controller
 {
     public function index()
     {
-        $posts = Post::query()->paginate(20);
+        $posts = Post::query()->paginate(10);
+        $posts_news = Post::query()->paginate(10);
 
-        return view('admin.posts.index', compact('posts'));
+        return view('admin.posts.index', compact('posts', 'posts_news'));
+
     }
+
+
 
     public function create()
     {
         return view('admin.posts.create');
     }
 
+
+
     public function store(Request $request)
+    {
+        $request->validate([
+            'title' => 'required',
+            'content' => 'required',
+            'img' => 'required|image||max:10240',
+        ],
+        [
+            'title.required' => 'Поле заголовок статьи должно быть заполнено',
+            'content.required' => 'Поле описание статьи должно быть заполнено',
+            'img.required' => 'Загрузите фотографию статьи',
+            'img.image' => 'Фотография статьи должна быть файлом изображения',
+            'img.max' => 'Фотография статьи не должна превышать размер 10 мб',
+        ]);
+
+        $data = $request->all();
+        $data['img'] = Post::uploadImage($request);
+
+        $post = Post::query()->create($data);
+
+        return redirect()->route('posts.index')->with('success', 'Статья добавлена');
+    }
+
+    public function store_news(Request $request)
     {
         $request->validate([
             'title' => 'required',
