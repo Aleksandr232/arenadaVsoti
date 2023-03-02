@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use App\Models\Post;
+use App\Models\PostNews;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
 
@@ -12,7 +13,7 @@ class PostController extends Controller
     public function index()
     {
         $posts = Post::query()->paginate(10);
-
+        /* $posts_news = PostNews::query()->paginate(10); */
 
         return view('admin.posts.index', compact('posts'));
 
@@ -45,40 +46,21 @@ class PostController extends Controller
 
         $data = $request->all();
         $data['img'] = Post::uploadImage($request);
+        $data['img'] = PostNews::uploadImage($request);
 
-        
 
         $post = Post::query()->create($data);
+        $posts_news = PostNews::query()->create($data);
 
         return redirect()->route('posts.index')->with('success', 'Статья добавлена');
     }
 
-    public function store_news(Request $request)
-    {
-        $request->validate([
-            'title' => 'required',
-            'content' => 'required',
-            'img' => 'required|image||max:10240',
-        ],
-        [
-            'title.required' => 'Поле заголовок статьи должно быть заполнено',
-            'content.required' => 'Поле описание статьи должно быть заполнено',
-            'img.required' => 'Загрузите фотографию статьи',
-            'img.image' => 'Фотография статьи должна быть файлом изображения',
-            'img.max' => 'Фотография статьи не должна превышать размер 10 мб',
-        ]);
 
-        $data = $request->all();
-        $data['img'] = Post::uploadImage($request);
-
-        $post = Post::query()->create($data);
-
-        return redirect()->route('posts.index')->with('success', 'Статья добавлена');
-    }
 
     public function edit($id)
     {
         $post = Post::query()->find($id);
+        $posts_news = PostNews::query()->find($id);
 
         return view('admin.posts.edit', compact('post'));
     }
@@ -98,6 +80,7 @@ class PostController extends Controller
         ]);
 
         $post = Post::query()->find($id);
+        $posts_news = PostNews::query()->find($id);
         $data = $request->all();
 
         if ($file = Post::uploadImage($request, $post->img)) {
