@@ -201,77 +201,21 @@
 	<lastmod>2023-02-03T12:45:24+01:00</lastmod>
 	<priority>1.0</priority>
     <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/inpolis-night.webp</image:loc>
+      <image:loc>https://арендавысоты.рф/public/frontend/img/gallery/inopolis_end.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/inopolis.webp</image:loc>
+      <image:loc>https://арендавысоты.рф/public/frontend/img/gallery/kazan-moll.jpg</image:loc>
+    </image:image>
+     <image:image>
+      <image:loc>https://арендавысоты.рф/public/frontend/img/technics/news7.jpg</image:loc>
+    </image:image>
+     <image:image>
+      <image:loc>https://арендавысоты.рф/public/frontend/img/technics/bars9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/baumana.webp</image:loc>
+      <image:loc>https://арендавысоты.рф/public/frontend/img/snow-removal/alip2.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/malyye-mabany.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/adelya-kutuya.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/school-gabishevo.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/vysokaya-gora.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/novoye-shigaleyevo.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/rodiny.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/garden.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/gabishevo.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/ulyanova-lenina.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/laishevo.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/salmachi.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/kuzemetevskoe.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/usady.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/kazan-moll.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/kabany.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/kasimovykh.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/our-storage-salmachi.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/kazanskiy-kreml.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/night-tower.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/adoratskogo.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://арендавысоты.рф/frontend/img/gallery/peschanyye-kovali.webp</image:loc>
-    </image:image>
+
 </url>
 <url>
 	<loc>https://арендавысоты.рф/наши-контакты</loc>
