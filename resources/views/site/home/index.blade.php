@@ -30,7 +30,7 @@
                             <img src="{{ asset('frontend/img/icons/whatsapp.svg') }}" width="20" height="20" alt="леса в аренду">
                         </a>
                     </div>
-                    <button  class="cta-form__btn btn" data-btn="Заявка на обратный звонок">Заказать звонок</button>
+                    <button  class="cta-form__btn btn" data-btn="Заявка на обратный звонок"><div class="theme_white">Заказать звонок</div></button>
                 </div>
             </div>
             <div class="cta-advantage">

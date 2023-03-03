@@ -7,7 +7,7 @@
             </picture>
             <div class="opa-card__info">
                 <h2>Лестницы раздвижные</h2>
-                <p>Подробнее →</p>
+                <a>Подробнее →</a>
                 <div class="opa-card__info__content">
                     <div class="opa-cic-text">
                         <h3>Предоставляем в аренду лестницы 3х-секционные раздвижные</h3>

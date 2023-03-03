@@ -718,6 +718,7 @@ main {
   }
   .hn-navbar__burger span {
     top: 9px;
+
   }
   .hn-navbar__burger.active:before,
   .hn-navbar__burger.active span,
@@ -876,7 +877,7 @@ main {
 }
 @media screen and (max-width: 460px) {
   .hn-logo img {
-    width: 240px;
+    width: 170px;
   }
 }
 @media screen and (max-width: 400px) {
@@ -890,8 +891,11 @@ main {
 }
 @media screen and (max-width: 360px) {
   .hn-logo img {
-    width: 200px;
+    width: 170px;
   }
+
+
+
   .op-card__title {
     font-size: 18px;
   }
