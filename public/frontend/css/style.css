@@ -78,6 +78,49 @@
     filter: invert(1);
 }
 
+.dark-theme .modal-title{
+  color: #B5C8CF;
+}
+
+.dark-theme .their-checkbox{
+  border: 1px solid #F5812C
+}
+
+.dark-theme .checkbox input[type="checkbox"]:checked ~ .their-checkbox:after {
+  background-color: #F5812C;
+}
+
+.dark-theme .modal-bg{
+  background-color: #f8fafcf0;
+}
+
+.dark-theme .modal-btn{
+  background: #B5C8CF;
+  color: black
+}
+
+.dark-theme  .input-name__phone {
+  border: 1px solid #F5812C;
+
+}
+
+.dark-theme .opa-cic-text h3{
+    color: #B5C8CF;
+}
+
+.dark-theme .opa-card__info__btn{
+    color: #F5812C;
+}
+
+.dark-theme .input-name__field{
+  border: 1px solid #F5812C;
+}
+
+
+.dark-theme .modal{
+  background: hsl(0, 0%, 0%);
+}
+
 .dark-theme .cta-form__content p {
     color: #B5C8CF;
 }
