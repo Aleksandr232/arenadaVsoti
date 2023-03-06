@@ -69,8 +69,60 @@
     background: #B5C8CF;
 }
 
+.dark-theme .tt-card__with__bg{
+    background: hsl(0, 0%, 0%);
+}
+
+.dark-theme #price-towers__tour{
+    background: hsl(0, 0%, 0%);
+}
+
+.dark-theme .ptt-call-to-action h2{
+    color: #B5C8CF;
+}
+
+.dark-theme .tt-card__content h3{
+    color: #B5C8CF;
+}
+
 .dark-theme .theme_white{
     color:black;
+}
+
+.dark-theme .tt-card__content h2{
+    color: #F5812C;
+}
+
+.dark-theme .tt-card__content p{
+    color: #F5812C;
+}
+
+.dark-theme .ptt-card__btn{
+    background: #B5C8CF !important;
+    color: black
+}
+
+.dark-theme .btn_calc{
+    background: #B5C8CF !important;
+    color: black
+}
+
+.dark-theme .srb-btn{
+    background: #B5C8CF !important;
+    color: black
+}
+
+.dark-theme .sra-card{
+    background: #F5812C;
+    color: #3D5368;
+}
+
+.dark-theme .tt-card__content ol li{
+    color: #B5C8CF;
+}
+
+.dark-theme .our-services__title{
+    color: #B5C8CF;
 }
 
 .dark-theme .hn-logo {
@@ -80,6 +132,82 @@
 
 .dark-theme .modal-title{
   color: #B5C8CF;
+}
+
+.dark-theme #scaffolding-price {
+    background: hsl(0, 0%, 0%);
+}
+
+.dark-theme .sr-price__title h2{
+    color: #F5812C;
+}
+
+.dark-theme .sr-price  h2{
+    color: #F5812C
+}
+
+.dark-theme .sr-callToAction{
+    background: hsl(0, 0%, 0%);
+}
+
+.dark-theme .srcTA-title h2{
+    color: #F5812C
+}
+
+.dark-theme .srcTA-container li{
+    color: #B5C8CF;
+}
+
+.dark-theme .srcTA-container li::before{
+    color: #F5812C
+}
+
+.dark-theme .sp-call-to-action h2{
+    color: #B5C8CF;
+}
+
+.dark-theme .scaffolding-content h2{
+    color: #F5812C;
+}
+
+.dark-theme .scaffolding-content h3{
+    color: #B5C8CF;
+}
+
+.dark-theme .divider {
+    background: #F5812C;
+}
+.dark-theme .divider1 {
+    background: #F5812C;
+}
+.dark-theme .divider2 {
+    background: #F5812C;
+}
+.dark-theme .divider3{
+    background: #F5812C;
+}
+.dark-theme .divider4 {
+    background: #F5812C;
+}
+.dark-theme .divider5 {
+    background: #F5812C;
+}
+.dark-theme .divider6 {
+    background: #F5812C;
+}
+.dark-theme .divider7  {
+    background: #F5812C;
+}
+.dark-theme .divider8 {
+    background: #F5812C;
+}
+
+.dark-theme .scaffolding-content p{
+    color: #F5812C;
+}
+
+.dark-theme .scaffolding-content ol li{
+    color: #B5C8CF;
 }
 
 .dark-theme .their-checkbox{
@@ -552,6 +680,18 @@
     position: relative;
     top: 20px;
     left: 32px;
+}
+
+.video_pos8{
+    position: relative;
+    left: 52px;
+    top: 20px;
+}
+
+.video_pos9{
+    position: relative;
+    left: 76px;
+    top: 20px;
 }
 
 video {

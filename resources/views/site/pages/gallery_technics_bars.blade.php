@@ -90,6 +90,20 @@
                         </video>
                     </div>
             </div>
+            <div class="gallery-card__image">
+                    <div class="video_pos8">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/barsiknews1.MP4">
+                        </video>
+                    </div>
+            </div>
+            <div class="gallery-card__image">
+                    <div class="video_pos9">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/barsiknews2.MP4">
+                        </video>
+                    </div>
+            </div>
         </div>
     </section>
     <!-- include our-products start -->
