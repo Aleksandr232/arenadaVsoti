@@ -104,6 +104,20 @@
                         </video>
                     </div>
             </div>
+            <div class="gallery-card__image">
+                    <div style="position: relative; top: 35px" class="video_pos2">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/bars_snow1.mp4">
+                        </video>
+                    </div>
+            </div>
+            <div class="gallery-card__image">
+                    <div style="position: relative; top: 35px"  class="video_pos3">
+                        <video controls="controls">
+                            <source src="../../../../public/frontend/video/bars_snow2.mp4">
+                        </video>
+                    </div>
+            </div>
         </div>
     </section>
     <!-- include our-products start -->

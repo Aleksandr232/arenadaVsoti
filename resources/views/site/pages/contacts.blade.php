@@ -77,8 +77,8 @@
                 <div class="op-main__card">
                     <a href="{{ route('scaffolding') }}">
                         <picture>
-                            <source type="image/webp" srcset="{{ asset('frontend/img/main/scaffolding.webp') }}">
-                            <img src="{{ asset('frontend/img/main/scaffolding.jpg') }}" width="670" height="350" alt="леса в аренду">
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/kasimovykh.webp') }}">
+                            <img src="{{ asset('frontend/img/gallery/kasimovykh.webp') }}" width="670" height="350" alt="леса в аренду">
                         </picture>
                     </a>
                     <h2 class="op-card__title">Рамные строительные леса</h2>

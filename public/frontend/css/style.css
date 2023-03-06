@@ -158,6 +158,42 @@
     color: #B5C8CF;
 }
 
+.dark-theme .gallery-card h3{
+    color: #B5C8CF;
+}
+
+.dark-theme #gallery-recommendations{
+    background: hsl(0, 0%, 0%);
+}
+
+.dark-theme .cc-content h4{
+    color: #B5C8CF;
+}
+
+.dark-theme .cc-content__phone__container a{
+    color: #F5812C
+}
+
+.dark-theme #our-services{
+    background: hsl(0, 0%, 0%);
+}
+
+.dark-theme  .pc-content h2{
+    color: #F5812C
+}
+
+.dark-theme .page-link{
+    color: #F5812C
+}
+
+.dark-theme .odd{
+    background: hsl(0, 0%, 0%);
+}
+
+.dark-theme .cc-content h3{
+    color: #B5C8CF;
+}
+
 .dark-theme .srcTA-container li::before{
     color: #F5812C
 }
