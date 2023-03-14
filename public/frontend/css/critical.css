@@ -360,11 +360,11 @@ p {
   width: 1400px;
   margin: 0 auto;
 }
-@media screen and (max-width: 1400px) {
+/* @media screen and (max-width: 1400px) {
   .my-container {
     width: 96%;
   }
-}
+} */
 .security {
   position: absolute;
   top: 0;

@@ -1328,6 +1328,13 @@ video {
 .srcTAf-btn:hover {
   background: #5AA517;
 }
+
+@media screen and (max-width: 1200){
+    .hn-navbar__menu li {
+        margin-right: 3px;
+    }
+}
+
 @media screen and (max-width: 900px) {
 
   .srcTA-container {

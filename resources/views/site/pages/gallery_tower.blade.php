@@ -14,6 +14,45 @@
 @section('content')
     <section id="gallery">
         <div class="gallery">
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/tour3.jpg') }}" class="gallery-show" title="вышки-туры">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/tour3.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/tour3.jpg') }}" width="320" height="350" alt="вышки-туры">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Высота Балатон 0,6×1,5м:</span> 12 м</h3>
+                <p><span>Назначение:</span> Высотные работы</p>
+                <p><span>Объект:</span>Казань</p>
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/tour2.jpg') }}" class="gallery-show" title="вышки-туры">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/tour2.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/tour2.jpg') }}" width="320" height="350" alt="вышки-туры">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Высота Балатон 0,6×1,5м:</span> 4 м</h3>
+                <p><span>Назначение:</span> Готовим к аренде</p>
+                <p><span>Объект:</span>Казань. АРЕНДА ВЫСОТЫ</p>
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/tour1.jpg') }}" class="gallery-show" title="вышки-туры">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/tour1.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/tour1.jpg') }}" width="320" height="350" alt="вышки-туры">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Высота Балатон 0,6×1,5м:</span> 4 м</h3>
+                <p><span>Назначение:</span> отделочные работы</p>
+                <p><span>Объект:</span>Казань. ЗАГС ЧАША</p>
+            </div>
             <div class="gallery-card">
                 <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/gallery/laishevo.jpg') }}" class="gallery-show" title="п. Лаишево">

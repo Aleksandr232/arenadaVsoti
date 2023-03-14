@@ -14,6 +14,19 @@
 @section('content')
     <section id="gallery">
         <div class="gallery">
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/snow-removal/snow1.jpg') }}" class="gallery-show" title="Уборка снега с крыш">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/snow-removal/snow1.jpg') }}">
+                            <img src="{{ asset('frontend/img/snow-removal/snow1.jpg') }}" width="320" height="350" alt="уборка снега с крыш">
+                        </picture>
+                    </a>
+                </div>
+                <!-- <h3><span>Высота Балатон 0,6×1,5м:</span> 4 м</h3>
+                <p><span>Назначение:</span> отделочные работы</p>
+                <p><span>Объект:</span> п. Лаишево</p> -->
+            </div>
             <div class="gallery-card">
                 <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/snow-removal/hige1.jpg') }}" class="gallery-show" title="Уборка снега с крыш">

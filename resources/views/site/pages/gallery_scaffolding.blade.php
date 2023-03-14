@@ -16,6 +16,110 @@
         <div class="gallery">
         <div class="gallery-card">
                 <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa8.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa8.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa8.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span>200 кв.м</h3>
+                <p><span>Назначение:</span>Фасадные работы</p>
+                <p><span>Объект:</span>Объект:Татарстан. Шуран </p>
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa7.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa7.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa7.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span>396 кв.м</h3>
+                <p><span>Назначение:</span>Фасадные работы</p>
+                <p><span>Объект:</span>Объект:Татарстан. Званка </p>
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa6.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa6.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa6.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~800 кв.м</h3>
+                <p><span>Назначение:</span>Фасадные работы</p>
+                <p><span>Объект:</span>Казань. ул.Восстания </p>
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa5.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa5.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa5.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~300 кв.м</h3>
+                <p><span>Назначение:</span>Фасадные работы</p>
+                <p><span>Объект:</span>Татарстан. Васильево </p>
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa4.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa4.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa4.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~400 кв.м</h3>
+                <p><span>Назначение:</span>Фасадные работы</p>
+                <p><span>Объект:</span>Казань. ул.Горького </p>
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa1.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa1.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa1.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~800 кв.м</h3>
+                <p><span>Назначение:</span>Фасадные работы</p>
+                <p><span>Объект:</span>Салмачи </p>
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa2.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa2.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa2.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~500 кв.м</h3>
+                <!-- <p><span>Назначение:</span>Монтаж утепленного вент фасада (Завершения объекта)</p>
+                <p><span>Объект:</span>Иннополис. ул.Университетская </p> -->
+            </div>
+            <div class="gallery-card">
+                <div class="gallery-card__image">
+                    <a href="{{ asset('frontend/img/gallery/lesa3.jpg') }}" class="gallery-show" title="строительные леса">
+                        <picture>
+                            <source type="image/webp" srcset="{{ asset('frontend/img/gallery/lesa3.jpg') }}">
+                            <img src="{{ asset('frontend/img/gallery/lesa3.jpg') }}" width="320" height="350" alt="аренда лесов и тур">
+                        </picture>
+                    </a>
+                </div>
+                <h3><span>Площадь лесов:</span> примерно ~400 кв.м</h3>
+                <!-- <p><span>Назначение:</span>Монтаж утепленного вент фасада (Завершения объекта)</p>
+                <p><span>Объект:</span>Иннополис. ул.Университетская </p> -->
+            </div>
+        <div class="gallery-card">
+                <div class="gallery-card__image">
                     <a href="{{ asset('frontend/img/gallery/inopolis_end.jpg') }}" class="gallery-show" title="Иннополис. ул.Университетская">
                         <picture>
                             <source type="image/webp" srcset="{{ asset('frontend/img/gallery/inopolis_end.webp') }}">

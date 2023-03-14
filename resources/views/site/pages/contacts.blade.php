@@ -59,9 +59,12 @@
                         </div>
                     </div>
                     <div class="cc-content__legal__address">
-                        <p>ИП Зиновьев Михаил Сергеевич</p>
-                        <p>ОГРНИП 318169000079419</p>
-                        <p>ИНН 166019181137</p>
+                        <p>ООО "АРЕНДА ВЫСОТЫ"</p>
+                        <p>ОГРН  1211600085927</p>
+                        <p>ИНН 1684000706</p>
+                        <div class="sc-link">
+                            <a href="{{ asset('frontend/doc/carta.pdf') }}" target="_blank">Скачать →</a>
+                        </div>
                     </div>
                 </div>
             </div>
